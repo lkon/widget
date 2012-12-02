@@ -1,0 +1,23 @@
+/* @bg-body: #1c351d;  */
+/* @bg-body: #1C2335;  */
+@bg-body: #351C35;
+@bg-accordion: saturate(lighten(@bg-body, 15%), 5%);
+@bg-accordion-active: lighten(@bg-accordion, 5%);
+@border-accordion : darken(@bg-accordion, 15%);
+@border-top-accordion : lighten(@border-accordion, 20%);
+@color-accordion-subject: saturate(lighten(@bg-accordion-active, 15%), 20%);
+@gradient-color-round: @bg-body;
+@gradient-color-center: lighten(@bg-body, 15%);
+.gradient-radial(@color-center:@gradient-color-center, @color-round:@gradient-color-round, @center: 20%, @round: 73%){
+    background: @color-center; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  @color-center @center, @color-round @round); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(@center,@color-center), color-stop(@round,@color-round)); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover,  @color-center @center, @color-round @round); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover,  @color-center @center, @color-round @round); /* Opera 12+ */
+    background: radial-gradient(ellipse at center,  @color-center @center,@color-round @round); /* W3C */
+   /* filter: e(%("progid:DXImageTransform.Microsoft.gradient( startColorstr='%d', endColorstr='%d',GradientType=1 )", @color-center, @color-round; /* IE6-9 fallback on horizontal gradient */
+}
+@background-weather-headling: lighten(@bg-body, 10%);
+@color-weather-headling: @color-accordion-subject;
+@border-top-weather-headling: darken(@background-weather-headling, 5%);
+@box-shadow-weather-headling: darken(@bg-body, 2%);

@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>RBC</title>
+
+	<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+	<link rel="stylesheet" type="text/css" href="css/jquery.ui.core.css" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.ui.theme.css" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.ui.accordion.css" />
+	<link rel="stylesheet/less" type="text/css" href="css/style.less">
+	<script src="scripts/vendor/less-1.3.1.min.js"></script>
+	<script data-main="scripts/main" src="scripts/require.js"></script>
+</head>
+<body>
+	<div class="outer">
+	    <div class="header">
+	        <span class="header-logo">
+	            <img src="i/logo.png" alt="">
+	        </span>
+		    <div class="header-weather">
+	            <div class="header-weather_city"></div>
+	            <div class="header-weather_icon"><div class="ico_weather" data-phenomenon=""></div></div>
+	            <div class="header-weather_desc">
+	                <span class="header-weather_temp"></span>
+	                <span class="header-weather_wind">ветер: <span class="ico-wind_direction" data-direction=""> </span> <span class="wind_variable"></span></span>
+	            </div>
+	        </div>
+	        <div class="header-currency">
+	            <div class="header-currency_desc">
+	                <div class="header-currency_name">USD <span>ЦБ РФ</span></div>
+	                <div class="header-currency_value"><span class="current">30.3299</span> <span class="offset_current up"> 0.0647</span></div>
+	            </div>
+	            <div class="header-currency_desc">
+	                <div class="header-currency_name">EUR <span>ЦБ РФ</span></div>
+	                <div class="header-currency_value"><span class="current">30.3299</span> <span class="offset_current up"> 0.0647</span></div>
+	            </div>
+	            <div class="header-currency_desc">
+	                <div class="header-currency_name">USD/EUR</div>
+	                <div class="header-currency_value"><span class="current">30.3299</span> <span class="offset_current down"> 0.0647</span></div>
+	            </div>
+	        </div>
+	        <div class="header-clock">
+	        	<span class="header-clock-time"></span>
+	        	<span class="header-clock-date"></span>
+	        	<span class="header-clock-day"></span>
+	        </div>
+	    </div>
+		<div class="content">
+			<i class="widget-reload"></i>
+			<i class="widget-back"></i>
+			<div class="accordion ui-accordion ui-widget ui-helper-reset ui-accordion-icons">
+
+				<h3 class="main ui-accordion-header ui-helper-reset ui-state-default">
+					<a href="!/#main">РБК Главные новости
+						<span class="news-counter"><span class="news-number">1</span><span class="from"> из </span><span class="news-total">1</span> <span class="subject">сюжетов</span></span>
+					</a>
+				</h3>
+					<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="main">
+						<div class="accordian-data_inner">
+							<div class="accordian-data_live">
+								<div class="accordian-data_news">
+									<div class="accordian-data_news-gallery"><!-- INSERT DATA FROM JSON --></div>
+								</div>
+								<div class="accordian-data_news-text"><!-- INSERT DATA --></div>
+								<i class="nav-left news"></i>
+								<i class="nav-right news"></i>
+							</div>
+							<div class="accordian-data_live-full">
+								<div class="accordian-data_live-text"><!-- INSERT DATA --></div>
+								<i class="nav-left-full"></i>
+	    						<i class="nav-right-full"></i>
+	    						<i class="nav-up-full"></i>
+	    						<i class="nav-down-full"></i>
+	    					</div>
+						</div>
+					</div>
+
+			 	<h3 class="daily ui-accordion-header ui-helper-reset ui-state-default">
+			 		<a href="!/#daily">РБК daily
+			 			<span class="news-counter"><span class="news-number">1</span><span class="from"> из </span><span class="news-total">1</span> <span class="subject">сюжетов</span></span>
+			 		</a>
+			 	</h3>
+					<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="daily">
+						<div class="accordian-data_inner">
+							<div class="accordian-data_live">
+								<div class="accordian-data_news">
+									<div class="accordian-data_news-gallery"><!-- INSERT DATA FROM JSON --></div>
+								</div>
+								<div class="accordian-data_news-text"><!-- INSERT DATA --></div>
+								<i class="nav-left news"></i>
+								<i class="nav-right news"></i>
+							</div>
+							<div class="accordian-data_live-full">
+								<div class="accordian-data_live-text"><!-- INSERT DATA --></div>
+								<i class="nav-left-full"></i>
+	    						<i class="nav-right-full"></i>
+	    						<i class="nav-up-full"></i>
+	    						<i class="nav-down-full"></i>
+	    					</div>
+						</div>
+					</div>
+
+				<h3 class="rbctv ui-accordion-header ui-helper-reset ui-state-default">
+			 		<a href="!/#rbctv">РБК-ТВ
+			 			<span class="news-counter"><span class="news-number">1</span><span class="from"> из </span><span class="news-total">1</span> <span class="subject">сюжетов</span></span>
+			 		</a>
+			 	</h3>
+					<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="rbctv">
+						<div class="accordian-data_inner">
+							<div class="accordian-data_live">
+								<div class="accordian-data_news">
+									<div class="accordian-data_news-gallery"><!-- INSERT DATA FROM JSON --></div>
+								</div>
+								<div class="accordian-data_news-text"><!-- INSERT DATA --></div>
+								<i class="nav-left news"></i>
+								<i class="nav-right news"></i>
+							</div>
+							<div class="accordian-data_live-full">
+								<div class="accordian-data_live-text"><!-- INSERT DATA --></div>
+	    						<i class="nav-up-full tvnav"></i>
+	    						<i class="nav-down-full tvnav"></i>
+	    					</div>
+						</div>
+					</div>
+				<h3 class="weather ui-accordion-header ui-helper-reset ui-state-default ui-state-active">
+					<span class="change-city" >выбрать город</span>
+	                <a href="#">Погода
+	                	<span class="green-label more_than">более чем 200 городах</span>
+	                	<span class="city_name"></span>
+	                </a>
+            	</h3>
+            		<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content ui-accordion-content-active" id="weather">
+						<div class="accordian-data_inner weather">
+							<div class="accordian-data_weather_headling"><!-- INSERT DATA FROM JSON --></div>
+							<div class="accordian-data_weather_days"><!-- INSERT DATA FROM JSON --></div>
+						</div>
+					</div>
+			</div>
+			<span class="nav-up"></span>
+			<span class="nav-down"></span>
+		</div>
+
+	<!-- =========================PopUp============================ -->
+	 <div class="online-popup">
+        <div class="online-video"></div>
+		<div class="online-name">
+			<div class="online-name-left"></div>
+			<div class="online-name-right"><div class="online-name-time"></div></div>
+		</div>
+	</div>
+	<!-- =========================/PopUp============================ -->
+	<!-- =========================PopUp============================ -->
+	 <div class="weather-popup" style="display: none;">
+	    <div class="headling-accordion">
+	        <span class="green-text">Выбор города:</span> <span></span>
+	        <span class="select-city">выберите город и нажмите ОК </span>
+	    </div>
+	    <div class="body-popup">
+	        <ul></ul>
+	    </div>
+        <div class="alphabet">
+            <div class="letter-list"><ul></ul></div>
+            <div class="city-letter"></div>
+        </div>
+	</div>
+	<!-- =========================/PopUp============================ -->
+	<!-- =========================Video Loader============================ -->
+	<div id="loadingIcon" class="loadingIconStyle rtv" style="display: none;">
+		<img alt="" src="i/ajax-loader.gif">
+	</div>
+	<!-- =========================/Video Loader============================ -->
+	<!-- =========================Video Controls============================ -->
+	<div id="controls">
+		<a id="playButton"></a>
+		<a id="pauseButton" class="active"></a>
+		<a id="stopButton"></a>
+		<a id="fullButton" style="display: none; "></a>
+		<a id="qmenu"></a>
+	</div>
+	<!-- =========================/Video Controls============================ -->
+</div>
+
+
+	<!-- Templates -->
+			<!-- <div class="accordian-data_news-pic" data-id="0" data-type="daily" data-src=""> -->
+	<script type="text/template" id="news-pic">
+		<div class="accordian-data_news-img">
+			<div class="accordian-data_news-border"></div>
+			<img src="<%= picture %>">
+		</div>
+	</script>
+			<!-- </div> -->
+	<script type="text/template" id="news-title">
+		<div class="accordian-data_news-name">
+			<div class="accordian-data_news-title">
+				<%= title %>
+				<div class="accordian-data_news-date">
+					<span class="accordian-data_news-date_date"><%= date %></span> | <span class="accordian-data_news-date_time"><%= time %></span>
+				</div>
+			</div>
+		</div>
+	</script>
+
+	<script type="text/template" id="news-full">
+		<div class="daily-news active" data-id="0">
+			<div class="accordian-data_news-images">
+				<img src="<%= picture %>">
+			</div>
+			<div class="accordian-data_news-info">
+				<div class="daily-news-time">
+					<span class="accordian-data_news-date_date"><%= date %></span> | <span class="accordian-data_news-date_time"><%= time %></span>
+				</div>
+				<div class="daily-news-title"><%= title %></div>
+				<div class="daily-news-text"><%= text %></div>
+			</div>
+		</div>
+	</script>
+
+	<script type="text/template" id="tv-full">
+		<div class="tv">
+			<div class="tv-video" id="tv-video">
+				<div id="play">
+					<object width="640" height="428" downloadable="false" autostart="true" type="application/x-netcast-av" data="<%= video %>" id="media"></object>
+				</div>
+			</div>
+			<div class="tv-programm">
+				<h4>Сегодня на РБК-ТВ</h4>
+				<div class="loader-container">
+					<div class="archive-programm-list">
+						<ul></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</script>
+
+		<!-- <li> -->
+	<script type="text/template" id="tv-item">
+			<span class="prog-date"><%= date %></span>
+			<span class="prog-time"><%= time %></span>
+			<span class="prog-name"><%= title %></span>
+	</script>
+		<!-- </li> -->
+		<!-- <li> -->
+	<script type="text/template" id="city-item">
+		<a href="#"><span><%= name %></span>
+			<i class="s_top"></i>
+			<i class="s_right"></i>
+			<i class="s_bottom"></i>
+			<i class="s_left"></i>
+		</a>
+	</script>
+		<!-- </li> -->
+		<!-- <li> -->
+	<script type="text/template" id="character-item">
+		<a href="javascript:void(0);"><%= char %>
+			<i class="s_top"></i>
+			<i class="s_right"></i>
+			<i class="s_bottom"></i>
+			<i class="s_left"></i>
+		</a>
+	</script>
+		<!-- </li> -->
+
+	<script type="text/template" id="weather-headling">
+	<div class="now">
+		<div class="degrees">
+			<i class="phenomenon_now ico_weather" data-phenomenon="5"></i>
+			<p class="title">Сейчас</p>
+			<p class="variable">-11°C</p>
+		</div>
+		<div class="date_time">
+			<p class="title"><span class="time">13 Ноября 17:29</span></p>
+			<p class="descripton">облачно</p>
+		</div>
+	</div>
+
+	<div class="wind">
+		<i class="ico-wind"></i>
+		<p class="title">Ветер</p>
+		<p class="variable">
+			<span class="wind_direction" data-direction="4"> <i class="ico-wind_direction"></i></span>
+			<span class="wind_variable">2 м/c</span>
+		</p>
+	</div>
+
+	<div class="humidity">
+		<i class="ico-humidity"></i>
+		<p class="title">Влажность</p>
+		<p class="variable">80%</p>
+	</div>
+	</script>
+
+	<script type="text/template" id="weather-item">
+	<div class="date">
+		<h4 class="headling">Сегодня <span class="date_nim">13 Ноября</span></h4>
+		<div class="period">
+			<div class="day">
+				<div class="header">День</div>
+				<div class="ico_weather" data-phenomenon="13"></div>
+				<p class="variable">-12</p>
+				<p class="descripton">облачно, небольшой снег</p>
+			</div>
+			<div class="night">
+				<div class="header">Ночь</div>
+				<div class="ico_weather" data-phenomenon="13"></div>
+				<p class="variable">-11</p>
+				<p class="descripton">облачно, небольшой снег</p>
+			</div>
+		</div>
+	</div>
+	</script>
+
+
+</body>
+</html>

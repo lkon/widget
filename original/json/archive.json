@@ -1,0 +1,893 @@
+callbackWidget({
+			"total": 28,
+			"news":[
+				
+				{
+					"status": "prev",
+					
+					"title": "Обзор мировых финансовых рынков",
+					"date": "01.11",
+					"time": "22:47",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/01/64/a0dd1506c2807da9d6305cf9c8855d92_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/01/rinki2247.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Плата за капремонт ударит по карманам россиян",
+					"date": "01.11",
+					"time": "23:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/65/56/fe0d094181b009c872fb9a278153768f.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/01/news2300.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "«И ад следовал за ним». Экс-полковник КГБ презентовал шпионский роман",
+					"date": "01.11",
+					"time": "23:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/51/13/e970689be0060f1d99d9a3a134809b42_480x360.png",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/01/news2330.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Ливийцы протестуют против каддафийцев в правительстве",
+					"date": "02.11",
+					"time": "07:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/67/05/f92216660f88405f2d63d5a9d81ae6f8.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news0700.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Мировые финансовые рынки, анонс дня",
+					"date": "02.11",
+					"time": "07:14",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/03/40/5c35f625c9929499516cc0b37b35b192_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki0714.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "В некоторых странах празднование Хэллоуина обернулось трагедией",
+					"date": "02.11",
+					"time": "07:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/61/78/f473b82c833e0b48b78260b91ed64de3.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news0730.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Мировые финансовые рынки, анонс дня",
+					"date": "02.11",
+					"time": "08:16",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/60/53/e9418cb4459ab33780a47af002200d36_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki0816.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Болельщики предоставили кредит руководству немецкого ФК «Кёльн»",
+					"date": "02.11",
+					"time": "08:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/44/22/7755d165f2c065ce3a8d30909ff9d600.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news0830.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Шувалов: Государство будет снижать контроль над «Роснефтью»",
+					"date": "02.11",
+					"time": "09:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/89/48/65a05ed3c730172c44b03b09f076cf0b.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news0900.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "В фонде «Город без наркотиков» в Екатеринбурге проходит обыск",
+					"date": "02.11",
+					"time": "09:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/82/24/826e5fc65252ad8eb5248b848642f39d.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news0930.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "09:37",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/12/14/c13c7d4f965acec11a030688e68875ab_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki0936.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Завершено расследование дела Магнитского",
+					"date": "02.11",
+					"time": "10:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/80/59/5bd7434210c328c579f4358814cce84b.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1000.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Третья особая экономическая зона появится в наукограде Троицке",
+					"date": "02.11",
+					"time": "10:00",
+					
+					"text": "В Подмосковье появится третья особая экономическая зона. К Дубне и Зеленограду присоединится Троицк. Ставка делается на развитие здесь наукоемких проектов. Об этом рассказал заместитель мэра Москвы по экономическим вопросам Андрей Шаронов.",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/00/92/530d03926e9f04f4942f5112ee0d3119_480x360.png",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/s_n_1000_03.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Спецвыпуск. Открытие торгов в России",
+					"date": "02.11",
+					"time": "10:16",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/92/97/660a7581671b59e30d01dbd392d004dc_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki1016.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Жертвами урагана «Сэнди» стали 97 человек",
+					"date": "02.11",
+					"time": "10:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/67/65/7711a98097c877246f207348457775db.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1030.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "10:37",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/17/32/f226a13d5cfbaca991a464a540b6be09_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki1037.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "В российско-грузинских отношениях возможна оттепель",
+					"date": "02.11",
+					"time": "11:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/20/69/99869d65eaeabdddd3b82a6076a8c214.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1100.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "ВТО - стимул стремиться к инновациям",
+					"date": "02.11",
+					"time": "11:00",
+					
+					"text": "ВТО - и проблема и стимул для российских компаний. Становиться конкурентоспособными придется под угрозой вытеснения c рынка. А зарубежные конкуренты придут - с улучшением инвестиционного климата. А с ростом спроса на модернизацию снизится и отток квалифицированных кадров. Об этом в интервью нашему телеканалу рассказал замминистра экономразвития Олег Фомичев.",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/35/21/b91d831323dbc1e3819b0ae6f16e3399_480x360.png",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/s_n_1100_03.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Глава «Города без наркотиков»: при обыске фонда компромата не найдено",
+					"date": "02.11",
+					"time": "11:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/87/38/f5e0135db0ba23c754a6b8ab5ca87792.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1130.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "В США президентская гонка выходит на финишную прямую",
+					"date": "02.11",
+					"time": "12:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/76/45/35b56124670272b9b312579c6112def1.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1200.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "12:18",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/78/76/cf46db46f592d36cd1a0e6725c7e1d90_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki1218.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Генпрокуратура выявила финансовые нарушения в работе Минэнерго",
+					"date": "02.11",
+					"time": "13:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/24/89/c92bea894fe190a944ac4f569208189f.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1300.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "13:09",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/40/08/1525d0d4afd129d401c8862a92e33d2d_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki1309.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Компенсацию по вкладам увеличат до 1 млн рублей",
+					"date": "02.11",
+					"time": "13:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/51/13/e970689be0060f1d99d9a3a134809b42_480x360.png",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1330.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Для иностранных ученых-математиков в Петербурге построят гостиницу",
+					"date": "02.11",
+					"time": "14:00",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/51/13/e970689be0060f1d99d9a3a134809b42_480x360.png",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1400.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Barclays оштрафован на $470 млн за махинации на энергорынке",
+					"date": "02.11",
+					"time": "14:07",
+					
+					"text": "Британскому банку Barclays выписали штраф на 470 миллионов долларов за манипуляции с ценами на электричество в американском штате Калифорния. У него есть месяц, чтобы оспорить взыскание от Федеральной комиссии по энергетике США.",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/90/76/ccee486cfa6b558cbb718dac92a7a9d6_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/novosti_companii1407.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "14:18",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/65/50/406a4c8247b859e56902d442ab5012fc_480x360.jpg",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/rinki1418.folder/ipad_index.m3u8"
+				 },
+		
+				{
+					"status": "prev",
+					
+					"title": "В 2013г. кредитный рынок РФ сбавит темп",
+					"date": "02.11",
+					"time": "14:30",
+					
+					"text": "",
+					"picture": "http://pics.v2.rbctv.ru/rbctv_pics/uniora/51/13/e970689be0060f1d99d9a3a134809b42_480x360.png",
+					"video": "http://videoarchive.rbc.ru/archive/2012/11/02/news1430.folder/ipad_index.m3u8"
+				 },
+		
+				{
+				
+					"status": "now",
+					
+					"title": "Финансовые новости. Интерактивный выпуск",
+					"date": "02.11",
+					"time": "14:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "15:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "15:18",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "15:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Глобальный взгляд",
+					"date": "02.11",
+					"time": "15:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "16:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "16:18",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "16:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Марианна Минскер. Электромобиль: перспективы в России",
+					"date": "02.11",
+					"time": "16:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "17:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Мировые финансовые рынки, основные тенденции",
+					"date": "02.11",
+					"time": "17:18",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "17:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Спецвыпуск. Открытие торгов в Америке",
+					"date": "02.11",
+					"time": "17:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Звездная пыль",
+					"date": "02.11",
+					"time": "17:50",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "18:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "18:18",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "18:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Интерактивный выпуск",
+					"date": "02.11",
+					"time": "18:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "19:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Спецвыпуск. Итоги торгов в России",
+					"date": "02.11",
+					"time": "19:18",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "19:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Степан Демура. Сланцевая нефть",
+					"date": "02.11",
+					"time": "19:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "20:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Ирина Прохорова. Система ценностей",
+					"date": "02.11",
+					"time": "20:15",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "20:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Ирина Прохорова. Система ценностей",
+					"date": "02.11",
+					"time": "20:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "21:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Отдых и туризм",
+					"date": "02.11",
+					"time": "21:22",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Международные новости",
+					"date": "02.11",
+					"time": "21:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Обзор мировых финансовых рынков",
+					"date": "02.11",
+					"time": "21:50",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "22:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Звездная пыль",
+					"date": "02.11",
+					"time": "22:22",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Международные новости",
+					"date": "02.11",
+					"time": "22:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Обзор мировых финансовых рынков",
+					"date": "02.11",
+					"time": "22:50",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "23:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Российские акции, инвестиционные идеи",
+					"date": "02.11",
+					"time": "23:13",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Отдых и туризм",
+					"date": "02.11",
+					"time": "23:22",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "02.11",
+					"time": "23:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Выходные на колесах",
+					"date": "02.11",
+					"time": "23:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "03.11",
+					"time": "00:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Итоги недели",
+					"date": "03.11",
+					"time": "00:12",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "03.11",
+					"time": "00:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Глобальный взгляд",
+					"date": "03.11",
+					"time": "00:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "03.11",
+					"time": "01:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Спецвыпуск. Итоги торгов в Америке",
+					"date": "03.11",
+					"time": "01:13",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "03.11",
+					"time": "01:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Международные новости",
+					"date": "03.11",
+					"time": "01:36",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "03.11",
+					"time": "02:00",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Финансовые новости. Итоги дня",
+					"date": "03.11",
+					"time": "02:13",
+					"text": "",
+					"picture": "",
+					"video": ""
+				},
+				{
+				
+					"status": "next",
+					
+					"title": "Главные новости",
+					"date": "03.11",
+					"time": "02:30",
+					"text": "",
+					"picture": "",
+					"video": ""
+				}
+			]
+		});
+	

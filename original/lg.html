@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>RBC</title>
+
+<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/jquery-ui-1.8.16.custom.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css"  />
+<link rel="stylesheet" type="text/css" href="css/news.css"  />
+<link rel="stylesheet" type="text/css" href="css/weather.css"  />
+<link rel="stylesheet" type="text/css" href="css/rate.css"  />
+
+<script language="javaScript" type="text/javascript" src="js/external/jquery/jquery-1.7.2.min.js"></script>
+<script language="javaScript" type="text/javascript" src="js/external/jquery/jquery.flot.min.js"></script>
+
+<script language="javaScript" type="text/javascript" src="js/helpers/time.js"></script>
+<script language="javaScript" type="text/javascript" src="js/helpers/translate.js"></script>
+
+<script language="javaScript" type="text/javascript" src="js/__core__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/__settings__.js"></script>
+
+<script language="javaScript" type="text/javascript" src="js/widgets/__init__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/__init__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/dataNews.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/galleryNews.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/fullNews.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/newsEvent.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/slider.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/programm.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/play.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/News/navigation.js"></script>
+
+<script language="javaScript" type="text/javascript" src="js/widgets/Weather/__init__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Weather/settings.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Weather/Weathers.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Weather/CityList.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Weather/navigation.js"></script>
+
+<script language="javaScript" type="text/javascript" src="js/widgets/Rate/__init__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Rate/settings.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Rate/currency.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Rate/diagram.js"></script>
+<script language="javaScript" type="text/javascript" src="js/widgets/Rate/navigation.js"></script>
+
+<script language="javaScript" type="text/javascript" src="js/controllers/__init__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/controllers/navigation/__init__.js"></script>
+<script language="javaScript" type="text/javascript" src="js/controllers/navigation/dictionary.js"></script>
+<script language="javaScript" type="text/javascript" src="js/controllers/navigation/keys.js"></script>  
+<script language="javaScript" type="text/javascript" src="js/controllers/navigation/mouse.js"></script> 
+
+<script language="javaScript" type="text/javascript">
+	$(document).ready( function(){
+		SmartJS.init();
+	});
+</script>
+
+<body style="margin: 0px; z-index: 0; overflow:hidden;">
+<div class="outer">
+    <div class="header">
+        <span class="header-logo">
+            <img src="css/img/layout/logo.png" alt="">
+        </span>
+        <div class="header-weather">
+            <div class="header-weather_city"></div>
+            <div class="header-weather_icon"><div class="ico_weather" data-phenomenon=""></div></div>
+            <div class="header-weather_desc">
+                <span class="header-weather_temp"></span>
+                <span class="header-weather_wind">ветер: <span class="ico-wind_direction" data-direction=""> </span> <span class="wind_variable"></span></span>
+            </div>
+        </div>
+        <div class="header-currency">
+            <div class="header-currency_desc">
+                <div class="header-currency_name">USD <span>ЦБ РФ</span></div>
+                <div class="header-currency_value"><span class="current">30.3299</span> <span class="offset_current up"> 0.0647</span></div>
+            </div>
+            <div class="header-currency_desc">
+                <div class="header-currency_name">EUR <span>ЦБ РФ</span></div>
+                <div class="header-currency_value"><span class="current">30.3299</span> <span class="offset_current up"> 0.0647</span></div>
+            </div>
+            <div class="header-currency_desc">
+                <div class="header-currency_name">USD/EUR</div>
+                <div class="header-currency_value"><span class="current">30.3299</span> <span class="offset_current down"> 0.0647</span></div>
+            </div>
+        </div>
+        <div class="header-clock">
+        	<span class="header-clock-time"></span>
+        	<span class="header-clock-date"></span>
+        	<span class="header-clock-day"></span>
+        </div>
+    </div>
+	<div class="content">
+		<a class="widget-reload"></a>
+		<a class="widget-back" id="widget-back"></a>
+		<div class="accordion ui-accordion ui-widget ui-helper-reset ui-accordion-icons">
+			<h3 class="rbctv ui-accordion-header ui-helper-reset ui-state-default ui-state-active">
+				<a href="#">РБК-ТВ 
+					<span class="news-counter"><span class="news-number">1</span><span class="from"> из </span><span class="news-total">1</span> <span class="rbctv-total">сюжета</span></span>
+				</a>
+			</h3>
+		 		<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content ui-accordion-content-active" id="rbctv">
+					<div class="accordian-data_inner">
+						<div class="accordian-data_live">
+							<div class="accordian-data_news">							
+								<div class="accordian-data_news-gallery"><!-- INSERT DATA FROM JSON --></div>
+							</div>
+							<div class="accordian-data_news-text"></div>
+							<a href="#" class="nav-left news"></a>
+							<a href="#" class="nav-right news"></a>
+						</div>
+						<div class="accordian-data_live-full">
+							<div class="accordian-data_live-text"><!-- INSERT DATA --></div>
+    						<a href="#" class="nav-up-full tvnav"></a>
+    						<a href="#" class="nav-down-full tvnav"></a>
+						</div>
+					</div>
+		 		</div>
+			<h3 class="main ui-accordion-header ui-helper-reset ui-state-default">
+				<a href="#">РБК Главные новости 
+					<span class="news-counter"><span class="news-number">1</span><span class="from"> из </span><span class="news-total">1</span> <span class="main-total">сюжета</span></span>
+				</a>
+			</h3>
+				<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="main">
+					<div class="accordian-data_inner">
+						<div class="accordian-data_live">
+							<div class="accordian-data_news">							
+								<div class="accordian-data_news-gallery"><!-- INSERT DATA FROM JSON --></div>
+							</div>
+							<div class="accordian-data_news-text"><!-- INSERT DATA --></div>
+							<a href="#" class="nav-left news"></a>
+							<a href="#" class="nav-right news"></a>
+						</div>
+						<div class="accordian-data_live-full">
+							<div class="accordian-data_live-text"><!-- INSERT DATA --></div>
+							<a href="#" class="nav-left-full"></a>
+    						<a href="#" class="nav-right-full"></a>
+    						<a href="#" class="nav-up-full"></a>
+    						<a href="#" class="nav-down-full"></a>
+    					</div>					
+					</div>
+				</div>		 		
+		 	<h3 class="daily ui-accordion-header ui-helper-reset ui-state-default">
+		 		<a href="#">РБК daily 
+		 			<span class="news-counter"><span class="news-number">1</span><span class="from"> из </span><span class="news-total">1</span> <span class="daily-total">сюжета</span></span>
+		 		</a>
+		 	</h3>
+				<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="daily">
+					<div class="accordian-data_inner">
+						<div class="accordian-data_live">
+							<div class="accordian-data_news">							
+								<div class="accordian-data_news-gallery"><!-- INSERT DATA FROM JSON --></div>
+							</div>
+							<div class="accordian-data_news-text"><!-- INSERT DATA --></div>
+							<a href="#" class="nav-left news"></a>
+							<a href="#" class="nav-right news"></a>
+						</div>
+						<div class="accordian-data_live-full">
+							<div class="accordian-data_live-text"><!-- INSERT DATA --></div>
+							<a href="#" class="nav-left-full"></a>
+    						<a href="#" class="nav-right-full"></a>
+    						<a href="#" class="nav-up-full"></a>
+    						<a href="#" class="nav-down-full"></a>
+    					</div>					
+					</div>
+				</div>
+			<h3 class="weather ui-accordion-header ui-helper-reset ui-state-default">
+				<span class="change-city">выбрать город</span>
+                <a href="#">Погода 
+                	<span class="green-label more_than">более чем 200 городах</span>
+                	<span class="city_name"></span>
+                </a>
+            </h3>
+				<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="weather">
+					<div class="accordian-data_inner weather">
+						<div class="accordian-data_weather_headling">
+							<div class="now">
+								<div class="degrees">
+									<i class="phenomenon_now ico_weather" data-phenomenon=""></i>
+									<p class="title">Сейчас</p>
+									<p class="variable">+17&deg;C</p>
+								</div>
+								<div class="date_time">
+									<p class="title"><span class="time"></span></p>
+									<p class="descripton"></p>
+								</div>
+							</div>
+
+							<div class="wind">
+								<i class="ico-wind"></i>
+								<p class="title">Ветер</p>
+								<p class="variable">
+									<span class="wind_direction" data-direction=""> <i class="ico-wind_direction"></i></span>
+									<span class="wind_variable"></span>
+								</p>
+							</div>
+
+							<div class="humidity">
+								<i class="ico-humidity"></i>
+								<p class="title">Влажность</p>
+								<p class="variable"></p>
+							</div>
+						</div><!-- .accordian-data_weather_headling -->
+						<div class="accordian-data_weather_days">
+							<div class="date">
+								<h4 class="headling">Сегодня <span class="date_nim">14 мая</span></h4>
+								<div class="period">
+									<div class="day">
+										<div class="header">День</div>
+										<div class="ico_weather" data-phenomenon=""></div>
+										<p class="variable"></p>
+										<p class="descripton"></p>
+									</div>
+									<div class="night">
+										<div class="header">Ночь</div>
+										<div class="ico_weather" data-phenomenon=""></div>
+										<p class="variable"></p>
+										<p class="descripton"></p>
+									</div>
+								</div>
+							</div>
+							<div class="date">
+								<h4 class="headling">Завтра <span class="date_nim">15 мая</span></h4>
+								<div class="period">
+									<div class="day">
+										<div class="header">День</div>
+										<div class="ico_weather" data-phenomenon=""></div>
+										<p class="variable"></p>
+										<p class="descripton"></p>
+									</div>
+									<div class="night">
+										<div class="header">Ночь</div>
+										<div class="ico_weather" data-phenomenon=""></div>
+										<p class="variable"></p>
+										<p class="descripton"></p>
+									</div>
+								</div>
+							</div>
+							<div class="date">
+								<h4 class="headling"><span class="date_nim">16 мая</span></h4>
+								<div class="period">
+									<div class="day">
+										<div class="header">День</div>
+										<div class="ico_weather" data-phenomenon=""></div>
+										<p class="variable"></p>
+										<p class="descripton"></p>
+									</div>
+									<div class="night">
+										<div class="header">Ночь</div>
+										<div class="ico_weather" data-phenomenon=""></div>
+										<p class="variable"></p>
+										<p class="descripton"></p>
+									</div>
+								</div>
+							</div>
+                            <div class="date">
+                                <h4 class="headling"><span class="date_nim"></span></h4>
+                                <div class="period">
+                                    <div class="day">
+                                        <div class="header">День</div>
+                                        <div class="ico_weather" data-phenomenon=""></div>
+                                        <p class="variable"></p>
+                                        <p class="descripton"></p>
+                                    </div>
+                                    <div class="night">
+                                        <div class="header">Ночь</div>
+                                        <div class="ico_weather" data-phenomenon=""></div>
+                                        <p class="variable"></p>
+                                        <p class="descripton"></p>
+                                    </div>
+                                </div>
+                            </div>							
+						</div><!--accordian-data_weather_days-->
+					</div>
+				</div>
+			<h3 class="rate ui-accordion-header ui-helper-reset ui-state-default">
+				<a href="#">Курсы валют 
+					<span class="green-label">ЦБ РФ</span>
+				</a>
+			</h3>
+				<div class="accordian-data ui-accordion-content ui-helper-reset ui-widget-content" id="rate">
+					<div class="accordian-data_inner big-height">
+                        <div class="accordian-data_live">
+                            <div class="accordian-data_news">                           
+                                <ul class="accordian-data_news-gallery currency">
+                                    <li class="active_frame usd">
+                                        <h2>USD</h2>
+                                        <span class="current"></span> <span class="offset_current"></span>
+                                    </li>
+                                    <li class="eur">
+                                        <h2>EUR</h2>
+                                        <span class="current"></span> <span class="offset_current"></span>
+                                    </li>
+                                    <li class="eur_usd">
+                                        <h2>EUR/USD</h2>
+                                        <span class="current"></span> <span class="offset_current"></span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="accordian-data_news-text diagram">
+                                <h2 class="diagram_headling"></h2>
+                                <div class="diagram_wrap">
+
+                                    <div id="point_min" class="diagram_point">
+                                        <div class="value"></div>
+                                        <div class="date"></div>
+                                    </div>
+
+                                    <div id="point_max" class="diagram_point">
+                                        <div class="value"></div>
+                                        <div class="date"></div>
+                                    </div>
+
+                                    <div id="point_last" class="diagram_point">
+                                        <span class="current"></span>
+                                        <span class="offset_current"></span>
+                                        <div class="date"></div>
+                                    </div>
+
+                                    <div id="grid"></div>
+                                    <div id="diagram_currency_body"></div>
+                                </div>
+                            </div>
+                        </div>               
+                    </div>
+				</div>                    
+		</div> 
+		<span class="nav-up"></span>
+		<span class="nav-down"></span> 		
+	</div>	
+	<!-- =========================PopUp============================ -->
+	 <div class="online-popup">
+        <div class="online-video"></div>
+		<div class="online-name">
+			<div class="online-name-left"></div>
+			<div class="online-name-right"><div class="online-name-time">15:11</div></div>
+		</div>
+	</div> 	
+	<!-- =========================/PopUp============================ -->	
+	<!-- =========================PopUp============================ -->
+	 <div class="weather-popup">
+	    <div class="headling-accordion">
+	        <span class="green-text">Выбор города:</span> <span>Москва</span>
+	        <span class="select-city">выберите город и нажмите ОК </span>
+	    </div>
+	    <div class="body-popup">
+	        <ul></ul>
+	    </div>
+        <div class="alphabet">
+            <div class="letter-list"><ul></ul></div>
+            <div class="city-letter"></div>
+        </div>
+	</div> 
+	<!-- =========================/PopUp============================ -->
+	<!-- =========================Video Loader============================ -->
+	<div id="loadingIcon" class="loadingIconStyle" >
+		<img alt="" src="css/img/layout/ajax-loader.gif">
+	</div>	
+	<!-- =========================/Video Loader============================ -->
+	<!-- =========================Video Controls============================ -->
+	<div id="controls">
+		<a id="playButton"></a>
+		<a id="pauseButton" class="active"></a>
+		<a id="stopButton"></a>
+		<a id="fullButton"></a>
+		<a id="qmenu"></a>
+	</div>
+	<!-- =========================/Video Controls============================ -->
+</div>
+<script language="javascript"><!--
+		u="count.rbc.ru/p933.gif";d=document;nv=navigator;na=nv.appName;p=0;j="N";
+		n=(na.substring(0,2)=="Mi")?0:1;y="";
+		y+="<img src='http://"+u+"?r="+escape(d.referrer)+"&width="+screen.width+"&height="+screen.height+"&hash="+escape(d.location.hash.substr(1))+"&rn="+Math.random();
+		y+="' border=0 width=1 height=1 alt='count'>";
+		d.write(y);if(!n) { d.write("<"+"!--"); }//--></script><noscript>
+		<img src="http://count.rbc.ru/p933.gif" alt='count' border=0 width=1 height=1 >
+		</noscript><script language="javascript1.2"><!--
+		if(!n) { d.write("--"+">"); }//--></script>
+</body>
+</html>

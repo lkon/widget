@@ -1,0 +1,3413 @@
+callbackGetCitiesAll({
+    
+        "kabul":{
+            "nick": "afghanistan/d/kabul",
+            "name_eng": "kabul",
+            "name_rus":  "Кабул"
+        },
+        "tirana":{
+            "nick": "albania/d/tirana",
+            "name_eng": "tirana",
+            "name_rus":  "Тирана"
+        },
+        "andorra":{
+            "nick": "andorra/d/andorra",
+            "name_eng": "andorra",
+            "name_rus":  "Андорра-ла-Велья"
+        },
+        "luanda":{
+            "nick": "angola/d/luanda",
+            "name_eng": "luanda",
+            "name_rus":  "Луанда"
+        },
+        "antigua":{
+            "nick": "antigua_and_barbuda/d/antigua",
+            "name_eng": "antigua",
+            "name_rus":  "Сент-Джонс"
+        },
+        "buenos_aires":{
+            "nick": "argentina/d/buenos_aires",
+            "name_eng": "buenos_aires",
+            "name_rus":  "Буэнос-Айрес"
+        },
+        "yerevan":{
+            "nick": "armenia/d/yerevan",
+            "name_eng": "yerevan",
+            "name_rus":  "Ереван"
+        },
+        "sydney":{
+            "nick": "australia/d/sydney",
+            "name_eng": "sydney",
+            "name_rus":  "Сидней"
+        },
+        "wien":{
+            "nick": "austria/d/wien",
+            "name_eng": "wien",
+            "name_rus":  "Вена"
+        },
+        "baku":{
+            "nick": "azerbaijan/d/baku",
+            "name_eng": "baku",
+            "name_rus":  "Баку"
+        },
+        "dhaka":{
+            "nick": "bangladesh/d/dhaka",
+            "name_eng": "dhaka",
+            "name_rus":  "Дакка"
+        },
+        "bridgetown":{
+            "nick": "barbados/d/bridgetown",
+            "name_eng": "bridgetown",
+            "name_rus":  "Бриджтаун"
+        },
+        "minsk":{
+            "nick": "belarus/d/minsk",
+            "name_eng": "minsk",
+            "name_rus":  "Минск"
+        },
+        "bruxelles":{
+            "nick": "belgium/d/bruxelles",
+            "name_eng": "bruxelles",
+            "name_rus":  "Брюссель"
+        },
+        "sarajevo":{
+            "nick": "bosnia_and_herzegovina/d/sarajevo",
+            "name_eng": "sarajevo",
+            "name_rus":  "Сараево"
+        },
+        "gaborone":{
+            "nick": "botswana/d/gaborone",
+            "name_eng": "gaborone",
+            "name_rus":  "Габороне"
+        },
+        "bandar-seri-bagawan":{
+            "nick": "brunei/d/bandar-seri-bagawan",
+            "name_eng": "bandar-seri-bagawan",
+            "name_rus":  "Бандар-Сери-Бегаван"
+        },
+        "sofia":{
+            "nick": "bulgaria/d/sofia",
+            "name_eng": "sofia",
+            "name_rus":  "София"
+        },
+        "uagadougou":{
+            "nick": "burkina_faso/d/uagadougou",
+            "name_eng": "uagadougou",
+            "name_rus":  "Уагадугу"
+        },
+        "bujumbura":{
+            "nick": "burundi/d/bujumbura",
+            "name_eng": "bujumbura",
+            "name_rus":  "Бужумбура"
+        },
+        "yaounde":{
+            "nick": "cameroon/d/yaounde",
+            "name_eng": "yaounde",
+            "name_rus":  "Яунде"
+        },
+        "ottawa":{
+            "nick": "canada/d/ottawa",
+            "name_eng": "ottawa",
+            "name_rus":  "Оттава"
+        },
+        "praia":{
+            "nick": "cape_verde/d/praia",
+            "name_eng": "praia",
+            "name_rus":  "Прая"
+        },
+        "bangui":{
+            "nick": "central_african_republic/d/bangui",
+            "name_eng": "bangui",
+            "name_rus":  "Банги"
+        },
+        "ndjamena":{
+            "nick": "chad/d/ndjamena",
+            "name_eng": "ndjamena",
+            "name_rus":  "Нджамена"
+        },
+        "praha":{
+            "nick": "chehiya/d/praha",
+            "name_eng": "praha",
+            "name_rus":  "Прага"
+        },
+        "santiago":{
+            "nick": "chile/d/santiago",
+            "name_eng": "santiago",
+            "name_rus":  "Сантьяго"
+        },
+        "beijing":{
+            "nick": "china/d/beijing",
+            "name_eng": "beijing",
+            "name_rus":  "Пекин"
+        },
+        "bogota":{
+            "nick": "colombia/d/bogota",
+            "name_eng": "bogota",
+            "name_rus":  "Богота"
+        },
+        "moroni":{
+            "nick": "comoros/d/moroni",
+            "name_eng": "moroni",
+            "name_rus":  "Морони"
+        },
+        "zagreb":{
+            "nick": "croatia/d/zagreb",
+            "name_eng": "zagreb",
+            "name_rus":  "Загреб"
+        },
+        "habana":{
+            "nick": "cuba/d/habana",
+            "name_eng": "habana",
+            "name_rus":  "Гавана"
+        },
+        "nicosia":{
+            "nick": "cyprus/d/nicosia",
+            "name_eng": "nicosia",
+            "name_rus":  "Никосия"
+        },
+        "kinshasa":{
+            "nick": "democratic_republic_of_the_congo/d/kinshasa",
+            "name_eng": "kinshasa",
+            "name_rus":  "Киншаса"
+        },
+        "koepengagen":{
+            "nick": "denmark/d/koepengagen",
+            "name_eng": "koepengagen",
+            "name_rus":  "Копенгаген"
+        },
+        "roseau":{
+            "nick": "dominica/d/roseau",
+            "name_eng": "roseau",
+            "name_rus":  "Розо"
+        },
+        "santo_domingo":{
+            "nick": "dominikanskaya_respublika/d/santo_domingo",
+            "name_eng": "santo_domingo",
+            "name_rus":  "Санто-Доминго"
+        },
+        "quito":{
+            "nick": "ecuador/d/quito",
+            "name_eng": "quito",
+            "name_rus":  "Кито"
+        },
+        "cairo":{
+            "nick": "egypt/d/cairo",
+            "name_eng": "cairo",
+            "name_rus":  "Каир"
+        },
+        "malabo":{
+            "nick": "equatorial_guinea/d/malabo",
+            "name_eng": "malabo",
+            "name_rus":  "Малабо"
+        },
+        "asmara":{
+            "nick": "eritrea/d/asmara",
+            "name_eng": "asmara",
+            "name_rus":  "Асмэра"
+        },
+        "tallinn":{
+            "nick": "estonia/d/tallinn",
+            "name_eng": "tallinn",
+            "name_rus":  "Таллин"
+        },
+        "addis-ababa":{
+            "nick": "ethiopia/d/addis-ababa",
+            "name_eng": "addis-ababa",
+            "name_rus":  "Аддис-Абеба"
+        },
+        "helsinki":{
+            "nick": "finland/d/helsinki",
+            "name_eng": "helsinki",
+            "name_rus":  "Хельсинки"
+        },
+        "paris":{
+            "nick": "france/d/paris",
+            "name_eng": "paris",
+            "name_rus":  "Париж"
+        },
+        "libreville":{
+            "nick": "gabon/d/libreville",
+            "name_eng": "libreville",
+            "name_rus":  "Либревиль"
+        },
+        "port-au-prince":{
+            "nick": "gaiti/d/port-au-prince",
+            "name_eng": "port-au-prince",
+            "name_rus":  "Порт-о-Пренс"
+        },
+        "tbilisi":{
+            "nick": "georgia/d/tbilisi",
+            "name_eng": "tbilisi",
+            "name_rus":  "Тбилиси"
+        },
+        "berlin":{
+            "nick": "germany/d/berlin",
+            "name_eng": "berlin",
+            "name_rus":  "Берлин"
+        },
+        "accra":{
+            "nick": "ghana/d/accra",
+            "name_eng": "accra",
+            "name_rus":  "Аккра"
+        },
+        "athens":{
+            "nick": "greece/d/athens",
+            "name_eng": "athens",
+            "name_rus":  "Афины"
+        },
+        "bissau":{
+            "nick": "guinea-bissau/d/bissau",
+            "name_eng": "bissau",
+            "name_rus":  "Бисау"
+        },
+        "conakry":{
+            "nick": "guinea/d/conakry",
+            "name_eng": "conakry",
+            "name_rus":  "Конакри"
+        },
+        "georgetown":{
+            "nick": "guyana/d/georgetown",
+            "name_eng": "georgetown",
+            "name_rus":  "Джорджтаун"
+        },
+        "tegucigalpa":{
+            "nick": "honduras/d/tegucigalpa",
+            "name_eng": "tegucigalpa",
+            "name_rus":  "Тегусигальпа"
+        },
+        "budapest":{
+            "nick": "hungary/d/budapest",
+            "name_eng": "budapest",
+            "name_rus":  "Будапешт"
+        },
+        "jakarta":{
+            "nick": "indonesia/d/jakarta",
+            "name_eng": "jakarta",
+            "name_rus":  "Джакарта"
+        },
+        "tehran":{
+            "nick": "iran/d/tehran",
+            "name_eng": "tehran",
+            "name_rus":  "Тегеран"
+        },
+        "baghdad":{
+            "nick": "iraq/d/baghdad",
+            "name_eng": "baghdad",
+            "name_rus":  "Багдад"
+        },
+        "dublin":{
+            "nick": "ireland/d/dublin",
+            "name_eng": "dublin",
+            "name_rus":  "Дублин"
+        },
+        "jerusalem":{
+            "nick": "israel/d/jerusalem",
+            "name_eng": "jerusalem",
+            "name_rus":  "Иерусалим"
+        },
+        "roma":{
+            "nick": "italy/d/roma",
+            "name_eng": "roma",
+            "name_rus":  "Рим"
+        },
+        "tokyo":{
+            "nick": "japan/d/tokyo",
+            "name_eng": "tokyo",
+            "name_rus":  "Токио"
+        },
+        "amman":{
+            "nick": "jordan/d/amman",
+            "name_eng": "amman",
+            "name_rus":  "Амман"
+        },
+        "astana":{
+            "nick": "kazakhstan/d/astana",
+            "name_eng": "astana",
+            "name_rus":  "Астана"
+        },
+        "nairobi":{
+            "nick": "kenya/d/nairobi",
+            "name_eng": "nairobi",
+            "name_rus":  "Найроби"
+        },
+        "el_kuwait":{
+            "nick": "kuveyt/d/el_kuwait",
+            "name_eng": "el_kuwait",
+            "name_rus":  "Эль-Кувейт"
+        },
+        "bishkek":{
+            "nick": "kyrgyzstan/d/bishkek",
+            "name_eng": "bishkek",
+            "name_rus":  "Бишкек"
+        },
+        "vientiane":{
+            "nick": "laos/d/vientiane",
+            "name_eng": "vientiane",
+            "name_rus":  "Вьентьян"
+        },
+        "riga":{
+            "nick": "latvia/d/riga",
+            "name_eng": "riga",
+            "name_rus":  "Рига"
+        },
+        "beyrouth":{
+            "nick": "lebanon/d/beyrouth",
+            "name_eng": "beyrouth",
+            "name_rus":  "Бейрут"
+        },
+        "maseru":{
+            "nick": "lesotho/d/maseru",
+            "name_eng": "maseru",
+            "name_rus":  "Масеру"
+        },
+        "monrovia":{
+            "nick": "liberia/d/monrovia",
+            "name_eng": "monrovia",
+            "name_rus":  "Монровия"
+        },
+        "vilnius":{
+            "nick": "lithuania/d/vilnius",
+            "name_eng": "vilnius",
+            "name_rus":  "Вильнюс"
+        },
+        "luxemburg":{
+            "nick": "luxembourg/d/luxemburg",
+            "name_eng": "luxemburg",
+            "name_rus":  "Люксембург"
+        },
+        "tripoli":{
+            "nick": "lybia/d/tripoli",
+            "name_eng": "tripoli",
+            "name_rus":  "Триполи"
+        },
+        "skopje":{
+            "nick": "macedonia/d/skopje",
+            "name_eng": "skopje",
+            "name_rus":  "Скопье"
+        },
+        "antananarivo":{
+            "nick": "madagascar/d/antananarivo",
+            "name_eng": "antananarivo",
+            "name_rus":  "Антананариву"
+        },
+        "kuala_lumpur":{
+            "nick": "malayziya/d/kuala_lumpur",
+            "name_eng": "kuala_lumpur",
+            "name_rus":  "Куала-Лумпур"
+        },
+        "male":{
+            "nick": "maldives/d/male",
+            "name_eng": "male",
+            "name_rus":  "Мале"
+        },
+        "bamako":{
+            "nick": "mali/d/bamako",
+            "name_eng": "bamako",
+            "name_rus":  "Бамако"
+        },
+        "nouakchott":{
+            "nick": "mauritania/d/nouakchott",
+            "name_eng": "nouakchott",
+            "name_rus":  "Нуакшот"
+        },
+        "mexicocity":{
+            "nick": "mexico/d/mexicocity",
+            "name_eng": "mexicocity",
+            "name_rus":  "Мехико"
+        },
+        "kisinev":{
+            "nick": "moldaviya/d/kisinev",
+            "name_eng": "kisinev",
+            "name_rus":  "Кишинев"
+        },
+        "monaco":{
+            "nick": "monaco/d/monaco",
+            "name_eng": "monaco",
+            "name_rus":  "Монако"
+        },
+        "ulaan-baator":{
+            "nick": "mongolia/d/ulaan-baator",
+            "name_eng": "ulaan-baator",
+            "name_rus":  "Улан-Батор"
+        },
+        "maputo":{
+            "nick": "mozambique/d/maputo",
+            "name_eng": "maputo",
+            "name_rus":  "Мапуту"
+        },
+        "windhoek":{
+            "nick": "namibia/d/windhoek",
+            "name_eng": "windhoek",
+            "name_rus":  "Виндхук"
+        },
+        "kathmandu":{
+            "nick": "nepal/d/kathmandu",
+            "name_eng": "kathmandu",
+            "name_rus":  "Катманду"
+        },
+        "amsterdam":{
+            "nick": "netherlands/d/amsterdam",
+            "name_eng": "amsterdam",
+            "name_rus":  "Амстердам"
+        },
+        "wellington":{
+            "nick": "new_zealand/d/wellington",
+            "name_eng": "wellington",
+            "name_rus":  "Веллингтон"
+        },
+        "managua":{
+            "nick": "nicaragua/d/managua",
+            "name_eng": "managua",
+            "name_rus":  "Манагуа"
+        },
+        "niamey":{
+            "nick": "niger/d/niamey",
+            "name_eng": "niamey",
+            "name_rus":  "Ниамей"
+        },
+        "abuja":{
+            "nick": "nigeria/d/abuja",
+            "name_eng": "abuja",
+            "name_rus":  "Абуджа"
+        },
+        "phenyan":{
+            "nick": "north_korea/d/phenyan",
+            "name_eng": "phenyan",
+            "name_rus":  "Пхеньян"
+        },
+        "oslo":{
+            "nick": "norway/d/oslo",
+            "name_eng": "oslo",
+            "name_rus":  "Осло"
+        },
+        "abu_dhabi":{
+            "nick": "oae/d/abu_dhabi",
+            "name_eng": "abu_dhabi",
+            "name_rus":  "Абу-Даби"
+        },
+        "islamabad":{
+            "nick": "pakistan/d/islamabad",
+            "name_eng": "islamabad",
+            "name_rus":  "Исламабад"
+        },
+        "asuncion":{
+            "nick": "paraguay/d/asuncion",
+            "name_eng": "asuncion",
+            "name_rus":  "Асунсьон"
+        },
+        "lima-callao":{
+            "nick": "peru/d/lima-callao",
+            "name_eng": "lima-callao",
+            "name_rus":  "Лима"
+        },
+        "manila":{
+            "nick": "philippines/d/manila",
+            "name_eng": "manila",
+            "name_rus":  "Манила"
+        },
+        "warszawa":{
+            "nick": "poland/d/warszawa",
+            "name_eng": "warszawa",
+            "name_rus":  "Варшава"
+        },
+        "lisbon":{
+            "nick": "portugal/d/lisbon",
+            "name_eng": "lisbon",
+            "name_rus":  "Лиссабон"
+        },
+        "doha":{
+            "nick": "qatar/d/doha",
+            "name_eng": "doha",
+            "name_rus":  "Доха"
+        },
+        "brazzaville":{
+            "nick": "republic_of_the_congo/d/brazzaville",
+            "name_eng": "brazzaville",
+            "name_rus":  "Браззавиль"
+        },
+        "bucharest":{
+            "nick": "romania/d/bucharest",
+            "name_eng": "bucharest",
+            "name_rus":  "Бухарест"
+        },
+        "kigali":{
+            "nick": "rwanda/d/kigali",
+            "name_eng": "kigali",
+            "name_rus":  "Кигали"
+        },
+        "kastri":{
+            "nick": "saint_lucia/d/kastri",
+            "name_eng": "kastri",
+            "name_rus":  "Кастри"
+        },
+        "san_salvador":{
+            "nick": "salvador/d/san_salvador",
+            "name_eng": "san_salvador",
+            "name_rus":  "Сан-Сальвадор"
+        },
+        "s_tome":{
+            "nick": "san-tome_i_prinsipi/d/s_tome",
+            "name_eng": "s_tome",
+            "name_rus":  "Сан-Томе"
+        },
+        "er-riyadh":{
+            "nick": "saudi_arabia/d/er-riyadh",
+            "name_eng": "er-riyadh",
+            "name_rus":  "Эр-Рияд"
+        },
+        "dakar":{
+            "nick": "senegal/d/dakar",
+            "name_eng": "dakar",
+            "name_rus":  "Дакар"
+        },
+        "belgrad":{
+            "nick": "serbia/d/belgrad",
+            "name_eng": "belgrad",
+            "name_rus":  "Белград"
+        },
+        "singapore":{
+            "nick": "singapore/d/singapore",
+            "name_eng": "singapore",
+            "name_rus":  "Сингапур"
+        },
+        "bratislava":{
+            "nick": "slovakia/d/bratislava",
+            "name_eng": "bratislava",
+            "name_rus":  "Братислава"
+        },
+        "ljubljana":{
+            "nick": "slovenia/d/ljubljana",
+            "name_eng": "ljubljana",
+            "name_rus":  "Любляна"
+        },
+        "mogadiscio":{
+            "nick": "somalia/d/mogadiscio",
+            "name_eng": "mogadiscio",
+            "name_rus":  "Могадишо"
+        },
+        "seoul":{
+            "nick": "south_korea/d/seoul",
+            "name_eng": "seoul",
+            "name_rus":  "Сеул"
+        },
+        "madrid":{
+            "nick": "spain/d/madrid",
+            "name_eng": "madrid",
+            "name_rus":  "Мадрид"
+        },
+        "bassetrre":{
+            "nick": "st_kitts_and_nevis/d/bassetrre",
+            "name_eng": "bassetrre",
+            "name_rus":  "Бастер"
+        },
+        "kingstown":{
+            "nick": "st_vincent_and_the_grenadines/d/kingstown",
+            "name_eng": "kingstown",
+            "name_rus":  "Кингстаун"
+        },
+        "khartoum":{
+            "nick": "sudan/d/khartoum",
+            "name_eng": "khartoum",
+            "name_rus":  "Хартум"
+        },
+        "paramaribo":{
+            "nick": "suriname/d/paramaribo",
+            "name_eng": "paramaribo",
+            "name_rus":  "Парамарибо"
+        },
+        "stockholm":{
+            "nick": "sweden/d/stockholm",
+            "name_eng": "stockholm",
+            "name_rus":  "Стокгольм"
+        },
+        "bern":{
+            "nick": "switzerland/d/bern",
+            "name_eng": "bern",
+            "name_rus":  "Берн"
+        },
+        "damascus":{
+            "nick": "syria/d/damascus",
+            "name_eng": "damascus",
+            "name_rus":  "Дамаск"
+        },
+        "dushanbe":{
+            "nick": "tajikistan/d/dushanbe",
+            "name_eng": "dushanbe",
+            "name_rus":  "Душанбе"
+        },
+        "bangkok":{
+            "nick": "thailand/d/bangkok",
+            "name_eng": "bangkok",
+            "name_rus":  "Бангкок"
+        },
+        "nassau":{
+            "nick": "the_bahamas/d/nassau",
+            "name_eng": "nassau",
+            "name_rus":  "Нассау"
+        },
+        "banjul":{
+            "nick": "the_gambia/d/banjul",
+            "name_eng": "banjul",
+            "name_rus":  "Банжул"
+        },
+        "lome":{
+            "nick": "togo/d/lome",
+            "name_eng": "lome",
+            "name_rus":  "Ломе"
+        },
+        "tunisia":{
+            "nick": "tunisia/d/tunisia",
+            "name_eng": "tunisia",
+            "name_rus":  "Тунис"
+        },
+        "ankara":{
+            "nick": "turkey/d/ankara",
+            "name_eng": "ankara",
+            "name_rus":  "Анкара"
+        },
+        "ashgabat":{
+            "nick": "turkmenistan/d/ashgabat",
+            "name_eng": "ashgabat",
+            "name_rus":  "Ашхабад"
+        },
+        "kampala":{
+            "nick": "uganda/d/kampala",
+            "name_eng": "kampala",
+            "name_rus":  "Кампала"
+        },
+        "kyiv":{
+            "nick": "ukraine/d/kyiv",
+            "name_eng": "kyiv",
+            "name_rus":  "Киев"
+        },
+        "london":{
+            "nick": "united_kingdom/d/london",
+            "name_eng": "london",
+            "name_rus":  "Лондон"
+        },
+        "washington":{
+            "nick": "united_states/d/washington",
+            "name_eng": "washington",
+            "name_rus":  "Вашингтон"
+        },
+        "montevideo":{
+            "nick": "uruguay/d/montevideo",
+            "name_eng": "montevideo",
+            "name_rus":  "Монтевидео"
+        },
+        "tashkent":{
+            "nick": "uzbekistan/d/tashkent",
+            "name_eng": "tashkent",
+            "name_rus":  "Ташкент"
+        },
+        "caracas":{
+            "nick": "venezuela/d/caracas",
+            "name_eng": "caracas",
+            "name_rus":  "Каракас"
+        },
+        "hanoy":{
+            "nick": "vietnam/d/hanoy",
+            "name_eng": "hanoy",
+            "name_rus":  "Ханой"
+        },
+        "lusaka":{
+            "nick": "zambia/d/lusaka",
+            "name_eng": "lusaka",
+            "name_rus":  "Лусака"
+        },
+        "el_aayoune":{
+            "nick": "zapadnaya_sahara/d/el_aayoune",
+            "name_eng": "el_aayoune",
+            "name_rus":  "Эль-Аюн"
+        },
+        "harare":{
+            "nick": "zimbabwe/d/harare",
+            "name_eng": "harare",
+            "name_rus":  "Хараре"
+        },
+        "moscow":{
+            "nick": "russia/moskva_i_moskovskaya_obl/moscow",
+            "name_eng": "moscow",
+            "name_rus":  "Москва"
+        },
+        "adelaide":{
+            "nick": "australia/d/adelaide",
+            "name_eng": "adelaide",
+            "name_rus":  "Аделаида"
+        },
+        "melbourne":{
+            "nick": "australia/d/melbourne",
+            "name_eng": "melbourne",
+            "name_rus":  "Мельбурн"
+        },
+        "innsbruck":{
+            "nick": "austria/d/innsbruck",
+            "name_eng": "innsbruck",
+            "name_rus":  "Инсбрук"
+        },
+        "klagenfurt":{
+            "nick": "austria/d/klagenfurt",
+            "name_eng": "klagenfurt",
+            "name_rus":  "Клагенфурт"
+        },
+        "salzburg":{
+            "nick": "austria/d/salzburg",
+            "name_eng": "salzburg",
+            "name_rus":  "Зальцбург"
+        },
+        "bobruisk":{
+            "nick": "belarus/d/bobruisk",
+            "name_eng": "bobruisk",
+            "name_rus":  "Бобруйск"
+        },
+        "borisov":{
+            "nick": "belarus/d/borisov",
+            "name_eng": "borisov",
+            "name_rus":  "Борисов"
+        },
+        "gomel":{
+            "nick": "belarus/d/gomel",
+            "name_eng": "gomel",
+            "name_rus":  "Гомель"
+        },
+        "vitebsk":{
+            "nick": "belarus/d/vitebsk",
+            "name_eng": "vitebsk",
+            "name_rus":  "Витебск"
+        },
+        "awerpen":{
+            "nick": "belgium/d/awerpen",
+            "name_eng": "awerpen",
+            "name_rus":  "Антверпен"
+        },
+        "cotonou":{
+            "nick": "benin/d/cotonou",
+            "name_eng": "cotonou",
+            "name_rus":  "Котону"
+        },
+        "la_paz":{
+            "nick": "boliviya/d/la_paz",
+            "name_eng": "la_paz",
+            "name_rus":  "Ла-Пас"
+        },
+        "rio_de_janeiro":{
+            "nick": "braziliya/d/rio_de_janeiro",
+            "name_eng": "rio_de_janeiro",
+            "name_rus":  "Рио-де-Жанейро"
+        },
+        "albena":{
+            "nick": "bulgaria/d/albena",
+            "name_eng": "albena",
+            "name_rus":  "Албена"
+        },
+        "solnechnyj_bereg":{
+            "nick": "bulgaria/d/solnechnyj_bereg",
+            "name_eng": "solnechnyj_bereg",
+            "name_rus":  "Солнечный Берег"
+        },
+        "zlatni_pyasutsi":{
+            "nick": "bulgaria/d/zlatni_pyasutsi",
+            "name_eng": "zlatni_pyasutsi",
+            "name_rus":  "Золотые Пески"
+        },
+        "yangon":{
+            "nick": "burma/d/yangon",
+            "name_eng": "yangon",
+            "name_rus":  "Янгон"
+        },
+        "montreal":{
+            "nick": "canada/d/montreal",
+            "name_eng": "montreal",
+            "name_rus":  "Монреаль"
+        },
+        "toronto":{
+            "nick": "canada/d/toronto",
+            "name_eng": "toronto",
+            "name_rus":  "Торонто"
+        },
+        "karlovy_vary":{
+            "nick": "chehiya/d/karlovy_vary",
+            "name_eng": "karlovy_vary",
+            "name_rus":  "Карловы Вары"
+        },
+        "changsha":{
+            "nick": "china/d/changsha",
+            "name_eng": "changsha",
+            "name_rus":  "Чанша"
+        },
+        "chongqin":{
+            "nick": "china/d/chongqin",
+            "name_eng": "chongqin",
+            "name_rus":  "Чунцин"
+        },
+        "dalian":{
+            "nick": "china/d/dalian",
+            "name_eng": "dalian",
+            "name_rus":  "Далянь"
+        },
+        "fuzhou":{
+            "nick": "china/d/fuzhou",
+            "name_eng": "fuzhou",
+            "name_rus":  "Фучжоу"
+        },
+        "guangzhou":{
+            "nick": "china/d/guangzhou",
+            "name_eng": "guangzhou",
+            "name_rus":  "Гуанчжоу"
+        },
+        "haikou":{
+            "nick": "china/d/haikou",
+            "name_eng": "haikou",
+            "name_rus":  "Хайкоу"
+        },
+        "harbin":{
+            "nick": "china/d/harbin",
+            "name_eng": "harbin",
+            "name_rus":  "Харбин"
+        },
+        "kunming":{
+            "nick": "china/d/kunming",
+            "name_eng": "kunming",
+            "name_rus":  "Куньмин"
+        },
+        "macao":{
+            "nick": "china/d/macao",
+            "name_eng": "macao",
+            "name_rus":  "Макао"
+        },
+        "nanjing":{
+            "nick": "china/d/nanjing",
+            "name_eng": "nanjing",
+            "name_rus":  "Нанцзин"
+        },
+        "shanghai":{
+            "nick": "china/d/shanghai",
+            "name_eng": "shanghai",
+            "name_rus":  "Шанхай"
+        },
+        "sinin":{
+            "nick": "china/d/sinin",
+            "name_eng": "sinin",
+            "name_rus":  "Синин"
+        },
+        "uhan":{
+            "nick": "china/d/uhan",
+            "name_eng": "uhan",
+            "name_rus":  "Ухань"
+        },
+        "abidjan":{
+            "nick": "cote_d_ivoire/d/abidjan",
+            "name_eng": "abidjan",
+            "name_rus":  "Абиджан"
+        },
+        "dubrovnik":{
+            "nick": "croatia/d/dubrovnik",
+            "name_eng": "dubrovnik",
+            "name_rus":  "Дубровник"
+        },
+        "pula":{
+            "nick": "croatia/d/pula",
+            "name_eng": "pula",
+            "name_rus":  "Пула"
+        },
+        "split":{
+            "nick": "croatia/d/split",
+            "name_eng": "split",
+            "name_rus":  "Сплит"
+        },
+        "varadero":{
+            "nick": "cuba/d/varadero",
+            "name_eng": "varadero",
+            "name_rus":  "Варадеро"
+        },
+        "larnaka":{
+            "nick": "cyprus/d/larnaka",
+            "name_eng": "larnaka",
+            "name_rus":  "Ларнака"
+        },
+        "limassol":{
+            "nick": "cyprus/d/limassol",
+            "name_eng": "limassol",
+            "name_rus":  "Лимассол"
+        },
+        "sharm_el_sheikh":{
+            "nick": "egipet/d/sharm_el_sheikh",
+            "name_eng": "sharm_el_sheikh",
+            "name_rus":  "Шарм-эль-Шейх"
+        },
+        "alexandria":{
+            "nick": "egypt/d/alexandria",
+            "name_eng": "alexandria",
+            "name_rus":  "Александрия"
+        },
+        "hurguada":{
+            "nick": "egypt/d/hurguada",
+            "name_eng": "hurguada",
+            "name_rus":  "Хургада"
+        },
+        "luxor":{
+            "nick": "egypt/d/luxor",
+            "name_eng": "luxor",
+            "name_rus":  "Луксор"
+        },
+        "nandi":{
+            "nick": "fiji/d/nandi",
+            "name_eng": "nandi",
+            "name_rus":  "Нади"
+        },
+        "tampere":{
+            "nick": "finland/d/tampere",
+            "name_eng": "tampere",
+            "name_rus":  "Тампере"
+        },
+        "turku":{
+            "nick": "finland/d/turku",
+            "name_eng": "turku",
+            "name_rus":  "Турку"
+        },
+        "cannes":{
+            "nick": "france/d/cannes",
+            "name_eng": "cannes",
+            "name_rus":  "Канны"
+        },
+        "kurshavel":{
+            "nick": "france/d/kurshavel",
+            "name_eng": "kurshavel",
+            "name_rus":  "Куршевель"
+        },
+        "marseille":{
+            "nick": "france/d/marseille",
+            "name_eng": "marseille",
+            "name_rus":  "Марсель"
+        },
+        "nice":{
+            "nick": "france/d/nice",
+            "name_eng": "nice",
+            "name_rus":  "Ницца"
+        },
+        "saint-tropez":{
+            "nick": "france/d/saint-tropez",
+            "name_eng": "saint-tropez",
+            "name_rus":  "Сен-Тропе"
+        },
+        "strasbourg":{
+            "nick": "france/d/strasbourg",
+            "name_eng": "strasbourg",
+            "name_rus":  "Страсбург"
+        },
+        "toulouse":{
+            "nick": "france/d/toulouse",
+            "name_eng": "toulouse",
+            "name_rus":  "Тулуза"
+        },
+        "kutaisi":{
+            "nick": "georgia/d/kutaisi",
+            "name_eng": "kutaisi",
+            "name_rus":  "Кутаиси"
+        },
+        "rustavi":{
+            "nick": "georgia/d/rustavi",
+            "name_eng": "rustavi",
+            "name_rus":  "Рустави"
+        },
+        "baden-baden":{
+            "nick": "germany/d/baden-baden",
+            "name_eng": "baden-baden",
+            "name_rus":  "Баден-Баден"
+        },
+        "bergen":{
+            "nick": "germany/d/bergen",
+            "name_eng": "bergen",
+            "name_rus":  "Берген"
+        },
+        "bremen":{
+            "nick": "germany/d/bremen",
+            "name_eng": "bremen",
+            "name_rus":  "Бремен"
+        },
+        "dresden":{
+            "nick": "germany/d/dresden",
+            "name_eng": "dresden",
+            "name_rus":  "Дрезден"
+        },
+        "duesseldorf":{
+            "nick": "germany/d/duesseldorf",
+            "name_eng": "duesseldorf",
+            "name_rus":  "Дюссельдорф"
+        },
+        "frankfurt-na-maine":{
+            "nick": "germany/d/frankfurt-na-maine",
+            "name_eng": "frankfurt-na-maine",
+            "name_rus":  "Франкфурт"
+        },
+        "hamburg":{
+            "nick": "germany/d/hamburg",
+            "name_eng": "hamburg",
+            "name_rus":  "Гамбург"
+        },
+        "hannover":{
+            "nick": "germany/d/hannover",
+            "name_eng": "hannover",
+            "name_rus":  "Ганновер"
+        },
+        "koeln":{
+            "nick": "germany/d/koeln",
+            "name_eng": "koeln",
+            "name_rus":  "Кельн"
+        },
+        "leipzig":{
+            "nick": "germany/d/leipzig",
+            "name_eng": "leipzig",
+            "name_rus":  "Лейпциг"
+        },
+        "muenchen":{
+            "nick": "germany/d/muenchen",
+            "name_eng": "muenchen",
+            "name_rus":  "Мюнхен"
+        },
+        "nuernberg":{
+            "nick": "germany/d/nuernberg",
+            "name_eng": "nuernberg",
+            "name_rus":  "Нюрнберг"
+        },
+        "potsdam":{
+            "nick": "germany/d/potsdam",
+            "name_eng": "potsdam",
+            "name_rus":  "Потсдам"
+        },
+        "heraklion":{
+            "nick": "greece/d/heraklion",
+            "name_eng": "heraklion",
+            "name_rus":  "Ираклион"
+        },
+        "khalkidiki":{
+            "nick": "greece/d/khalkidiki",
+            "name_eng": "khalkidiki",
+            "name_rus":  "Халкидики"
+        },
+        "korfu":{
+            "nick": "greece/d/korfu",
+            "name_eng": "korfu",
+            "name_rus":  "Корфу"
+        },
+        "rhodes":{
+            "nick": "greece/d/rhodes",
+            "name_eng": "rhodes",
+            "name_rus":  "Родос"
+        },
+        "saloniki":{
+            "nick": "greece/d/saloniki",
+            "name_eng": "saloniki",
+            "name_rus":  "Салоники"
+        },
+        "kesthey":{
+            "nick": "hungary/d/kesthey",
+            "name_eng": "kesthey",
+            "name_rus":  "Кестхей"
+        },
+        "papa":{
+            "nick": "hungary/d/papa",
+            "name_eng": "papa",
+            "name_rus":  "Папа"
+        },
+        "tata":{
+            "nick": "hungary/d/tata",
+            "name_eng": "tata",
+            "name_rus":  "Тата"
+        },
+        "agra":{
+            "nick": "india/d/agra",
+            "name_eng": "agra",
+            "name_rus":  "Агра"
+        },
+        "bombay":{
+            "nick": "india/d/bombay",
+            "name_eng": "bombay",
+            "name_rus":  "Мумбаи"
+        },
+        "goa":{
+            "nick": "india/d/goa",
+            "name_eng": "goa",
+            "name_rus":  "Гоа"
+        },
+        "jaipur":{
+            "nick": "india/d/jaipur",
+            "name_eng": "jaipur",
+            "name_rus":  "Джайпур"
+        },
+        "new_delhi":{
+            "nick": "indiya/d/new_delhi",
+            "name_eng": "new_delhi",
+            "name_rus":  "Дели"
+        },
+        "medan":{
+            "nick": "indonesia/d/medan",
+            "name_eng": "medan",
+            "name_rus":  "Медан"
+        },
+        "surabaya":{
+            "nick": "indonesia/d/surabaya",
+            "name_eng": "surabaya",
+            "name_rus":  "Сурабая"
+        },
+        "birr":{
+            "nick": "ireland/d/birr",
+            "name_eng": "birr",
+            "name_rus":  "Бирр"
+        },
+        "ibiza":{
+            "nick": "ispaniya/d/ibiza",
+            "name_eng": "ibiza",
+            "name_rus":  "Ибица"
+        },
+        "la_coruna":{
+            "nick": "ispaniya/d/la_coruna",
+            "name_eng": "la_coruna",
+            "name_rus":  "Ла-Корунья"
+        },
+        "majorka":{
+            "nick": "ispaniya/d/majorka",
+            "name_eng": "majorka",
+            "name_rus":  "Майорка"
+        },
+        "tel-aviv":{
+            "nick": "israel/d/tel-aviv",
+            "name_eng": "tel-aviv",
+            "name_rus":  "Тель-Авив"
+        },
+        "bari":{
+            "nick": "italy/d/bari",
+            "name_eng": "bari",
+            "name_rus":  "Бари"
+        },
+        "capri":{
+            "nick": "italy/d/capri",
+            "name_eng": "capri",
+            "name_rus":  "Капри"
+        },
+        "catania":{
+            "nick": "italy/d/catania",
+            "name_eng": "catania",
+            "name_rus":  "Катания"
+        },
+        "genova":{
+            "nick": "italy/d/genova",
+            "name_eng": "genova",
+            "name_rus":  "Генуя"
+        },
+        "kortina":{
+            "nick": "italy/d/kortina",
+            "name_eng": "kortina",
+            "name_rus":  "Кортина"
+        },
+        "milano":{
+            "nick": "italy/d/milano",
+            "name_eng": "milano",
+            "name_rus":  "Милан"
+        },
+        "napole":{
+            "nick": "italy/d/napole",
+            "name_eng": "napole",
+            "name_rus":  "Неаполь"
+        },
+        "olbia":{
+            "nick": "italy/d/olbia",
+            "name_eng": "olbia",
+            "name_rus":  "Ольбия"
+        },
+        "palermo":{
+            "nick": "italy/d/palermo",
+            "name_eng": "palermo",
+            "name_rus":  "Палермо"
+        },
+        "rimini":{
+            "nick": "italy/d/rimini",
+            "name_eng": "rimini",
+            "name_rus":  "Римини"
+        },
+        "san-remo":{
+            "nick": "italy/d/san-remo",
+            "name_eng": "san-remo",
+            "name_rus":  "Сан-Ремо"
+        },
+        "torino":{
+            "nick": "italy/d/torino",
+            "name_eng": "torino",
+            "name_rus":  "Турин"
+        },
+        "venezia":{
+            "nick": "italy/d/venezia",
+            "name_eng": "venezia",
+            "name_rus":  "Венеция"
+        },
+        "osaka":{
+            "nick": "japan/d/osaka",
+            "name_eng": "osaka",
+            "name_rus":  "Осака"
+        },
+        "aqaba":{
+            "nick": "jordan/d/aqaba",
+            "name_eng": "aqaba",
+            "name_rus":  "Акаба"
+        },
+        "almatyi":{
+            "nick": "kazakhstan/d/almatyi",
+            "name_eng": "almatyi",
+            "name_rus":  "Алматы"
+        },
+        "kostanay":{
+            "nick": "kazakhstan/d/kostanay",
+            "name_eng": "kostanay",
+            "name_rus":  "Костанай"
+        },
+        "pavlodar":{
+            "nick": "kazakhstan/d/pavlodar",
+            "name_eng": "pavlodar",
+            "name_rus":  "Павлодар"
+        },
+        "uralsk":{
+            "nick": "kazakhstan/d/uralsk",
+            "name_eng": "uralsk",
+            "name_rus":  "Уральск"
+        },
+        "hong_kong":{
+            "nick": "kitay/d/hong_kong",
+            "name_eng": "hong_kong",
+            "name_rus":  "Гонконг"
+        },
+        "djalal-abad":{
+            "nick": "kyrgyzstan/d/djalal-abad",
+            "name_eng": "djalal-abad",
+            "name_rus":  "Джалал-Абад"
+        },
+        "osh":{
+            "nick": "kyrgyzstan/d/osh",
+            "name_eng": "osh",
+            "name_rus":  "Ош"
+        },
+        "daugavpils":{
+            "nick": "latvia/d/daugavpils",
+            "name_eng": "daugavpils",
+            "name_rus":  "Даугавпилс"
+        },
+        "jurmala":{
+            "nick": "latvia/d/jurmala",
+            "name_eng": "jurmala",
+            "name_rus":  "Юрмала"
+        },
+        "kaunas":{
+            "nick": "lithuania/d/kaunas",
+            "name_eng": "kaunas",
+            "name_rus":  "Каунас"
+        },
+        "klaypeda":{
+            "nick": "lithuania/d/klaypeda",
+            "name_eng": "klaypeda",
+            "name_rus":  "Клайпеда"
+        },
+        "penang":{
+            "nick": "malaysia/d/penang",
+            "name_eng": "penang",
+            "name_rus":  "Пенанг"
+        },
+        "vacoas":{
+            "nick": "mauritius/d/vacoas",
+            "name_eng": "vacoas",
+            "name_rus":  "Вакоас"
+        },
+        "acapulco":{
+            "nick": "mexico/d/acapulco",
+            "name_eng": "acapulco",
+            "name_rus":  "Акапулько"
+        },
+        "tiraspol":{
+            "nick": "moldaviya/d/tiraspol",
+            "name_eng": "tiraspol",
+            "name_rus":  "Тирасполь"
+        },
+        "altai":{
+            "nick": "mongolia/d/altai",
+            "name_eng": "altai",
+            "name_rus":  "Алтай"
+        },
+        "casablanca":{
+            "nick": "morocco/d/casablanca",
+            "name_eng": "casablanca",
+            "name_rus":  "Касабланка"
+        },
+        "marrakech":{
+            "nick": "morocco/d/marrakech",
+            "name_eng": "marrakech",
+            "name_rus":  "Марракеш"
+        },
+        "haague":{
+            "nick": "netherlands/d/haague",
+            "name_eng": "haague",
+            "name_rus":  "Гаага"
+        },
+        "rotterdam":{
+            "nick": "netherlands/d/rotterdam",
+            "name_eng": "rotterdam",
+            "name_rus":  "Роттердам"
+        },
+        "panama":{
+            "nick": "panama/d/panama",
+            "name_eng": "panama",
+            "name_rus":  "Аилиганди"
+        },
+        "infanta":{
+            "nick": "philippines/d/infanta",
+            "name_eng": "infanta",
+            "name_rus":  "Инфанта"
+        },
+        "krakow":{
+            "nick": "poland/d/krakow",
+            "name_eng": "krakow",
+            "name_rus":  "Краков"
+        },
+        "poznan":{
+            "nick": "poland/d/poznan",
+            "name_eng": "poznan",
+            "name_rus":  "Познань"
+        },
+        "aleksandrov_gaj":{
+            "nick": "russia//aleksandrov_gaj",
+            "name_eng": "aleksandrov_gaj",
+            "name_rus":  "Александров Гай"
+        },
+        "chelyuskin":{
+            "nick": "russia//chelyuskin",
+            "name_eng": "chelyuskin",
+            "name_rus":  "Челюскин"
+        },
+        "krasnaya_polyana":{
+            "nick": "russia//krasnaya_polyana",
+            "name_eng": "krasnaya_polyana",
+            "name_rus":  "Красная Поляна"
+        },
+        "ojmjakon":{
+            "nick": "russia//ojmjakon",
+            "name_eng": "ojmjakon",
+            "name_rus":  "Оймякон"
+        },
+        "olenek":{
+            "nick": "russia//olenek",
+            "name_eng": "olenek",
+            "name_rus":  "Оленек"
+        },
+        "vendinga":{
+            "nick": "russia//vendinga",
+            "name_eng": "vendinga",
+            "name_rus":  "Вендинга"
+        },
+        "belokurikha":{
+            "nick": "russia/altayskiy_kray/belokurikha",
+            "name_eng": "belokurikha",
+            "name_rus":  "Белокуриха"
+        },
+        "biisk":{
+            "nick": "russia/altayskiy_kray/biisk",
+            "name_eng": "biisk",
+            "name_rus":  "Бийск"
+        },
+        "rebrikha":{
+            "nick": "russia/altayskiy_kray/rebrikha",
+            "name_eng": "rebrikha",
+            "name_rus":  "Ребриха"
+        },
+        "belogorsk":{
+            "nick": "russia/amurskaya_obl/belogorsk",
+            "name_eng": "belogorsk",
+            "name_rus":  "Белогорск"
+        },
+        "bomnak":{
+            "nick": "russia/amurskaya_obl/bomnak",
+            "name_eng": "bomnak",
+            "name_rus":  "Бомнак"
+        },
+        "pojarkovo":{
+            "nick": "russia/amurskaya_obl/pojarkovo",
+            "name_eng": "pojarkovo",
+            "name_rus":  "Поярково"
+        },
+        "skovorodino":{
+            "nick": "russia/amurskaya_obl/skovorodino",
+            "name_eng": "skovorodino",
+            "name_rus":  "Сковородино"
+        },
+        "tynda":{
+            "nick": "russia/amurskaya_obl/tynda",
+            "name_eng": "tynda",
+            "name_rus":  "Тында"
+        },
+        "holmogory":{
+            "nick": "russia/arhangelskaya_obl/holmogory",
+            "name_eng": "holmogory",
+            "name_rus":  "Холмогоры"
+        },
+        "kotlas":{
+            "nick": "russia/arhangelskaya_obl/kotlas",
+            "name_eng": "kotlas",
+            "name_rus":  "Котлас"
+        },
+        "onega":{
+            "nick": "russia/arhangelskaya_obl/onega",
+            "name_eng": "onega",
+            "name_rus":  "Онега"
+        },
+        "plesetsk":{
+            "nick": "russia/arhangelskaya_obl/plesetsk",
+            "name_eng": "plesetsk",
+            "name_rus":  "Плесецк"
+        },
+        "severodvinsk":{
+            "nick": "russia/arhangelskaya_obl/severodvinsk",
+            "name_eng": "severodvinsk",
+            "name_rus":  "Северодвинск"
+        },
+        "akhtubinsk":{
+            "nick": "russia/astrahanskaya_obl/akhtubinsk",
+            "name_eng": "akhtubinsk",
+            "name_rus":  "Ахтубинск"
+        },
+        "beloreck":{
+            "nick": "russia/bashkortostan/beloreck",
+            "name_eng": "beloreck",
+            "name_rus":  "Белорецк"
+        },
+        "neftekamsk":{
+            "nick": "russia/bashkortostan/neftekamsk",
+            "name_eng": "neftekamsk",
+            "name_rus":  "Нефтекамск"
+        },
+        "oktiabrskij":{
+            "nick": "russia/bashkortostan/oktiabrskij",
+            "name_eng": "oktiabrskij",
+            "name_rus":  "Октябрьский"
+        },
+        "salavat":{
+            "nick": "russia/bashkortostan/salavat",
+            "name_eng": "salavat",
+            "name_rus":  "Салават"
+        },
+        "gubkin":{
+            "nick": "russia/belgorodskaya_obl/gubkin",
+            "name_eng": "gubkin",
+            "name_rus":  "Губкин"
+        },
+        "novyj_oskol":{
+            "nick": "russia/belgorodskaya_obl/novyj_oskol",
+            "name_eng": "novyj_oskol",
+            "name_rus":  "Новый Оскол"
+        },
+        "staryj_oskol":{
+            "nick": "russia/belgorodskaya_obl/staryj_oskol",
+            "name_eng": "staryj_oskol",
+            "name_rus":  "Старый Оскол"
+        },
+        "severobaikalsk":{
+            "nick": "russia/buryatiya/severobaikalsk",
+            "name_eng": "severobaikalsk",
+            "name_rus":  "Северобайкальск"
+        },
+        "nazran":{
+            "nick": "russia/checheno-ingushetiya/nazran",
+            "name_eng": "nazran",
+            "name_rus":  "Назрань"
+        },
+        "katav-ivanovsk":{
+            "nick": "russia/chelyabinskaya_obl/katav-ivanovsk",
+            "name_eng": "katav-ivanovsk",
+            "name_rus":  "Катав-Ивановск"
+        },
+        "kyshtym":{
+            "nick": "russia/chelyabinskaya_obl/kyshtym",
+            "name_eng": "kyshtym",
+            "name_rus":  "Кыштым"
+        },
+        "magnitogorsk":{
+            "nick": "russia/chelyabinskaya_obl/magnitogorsk",
+            "name_eng": "magnitogorsk",
+            "name_rus":  "Магнитогорск"
+        },
+        "zlatoust":{
+            "nick": "russia/chelyabinskaya_obl/zlatoust",
+            "name_eng": "zlatoust",
+            "name_rus":  "Златоуст"
+        },
+        "borzya":{
+            "nick": "russia/chitinskaya_obl/borzya",
+            "name_eng": "borzya",
+            "name_rus":  "Борзя"
+        },
+        "nerchinsk":{
+            "nick": "russia/chitinskaya_obl/nerchinsk",
+            "name_eng": "nerchinsk",
+            "name_rus":  "Нерчинск"
+        },
+        "zabaykalsk":{
+            "nick": "russia/chitinskaya_obl/zabaykalsk",
+            "name_eng": "zabaykalsk",
+            "name_rus":  "Забайкальск"
+        },
+        "buynaksk":{
+            "nick": "russia/dagestan/buynaksk",
+            "name_eng": "buynaksk",
+            "name_rus":  "Буйнакск"
+        },
+        "derbent":{
+            "nick": "russia/dagestan/derbent",
+            "name_eng": "derbent",
+            "name_rus":  "Дербент"
+        },
+        "kaspiysk":{
+            "nick": "russia/dagestan/kaspiysk",
+            "name_eng": "kaspiysk",
+            "name_rus":  "Каспийск"
+        },
+        "khasavyurt":{
+            "nick": "russia/dagestan/khasavyurt",
+            "name_eng": "khasavyurt",
+            "name_rus":  "Хасавюрт"
+        },
+        "kyzlyar":{
+            "nick": "russia/dagestan/kyzlyar",
+            "name_eng": "kyzlyar",
+            "name_rus":  "Кизляр"
+        },
+        "amursk":{
+            "nick": "russia/habarovskiy_kray/amursk",
+            "name_eng": "amursk",
+            "name_rus":  "Амурск"
+        },
+        "komsomolsk-on-amur":{
+            "nick": "russia/habarovskiy_kray/komsomolsk-on-amur",
+            "name_eng": "komsomolsk-on-amur",
+            "name_rus":  "Комсомольск-на-Амуре"
+        },
+        "okhotsk":{
+            "nick": "russia/habarovskiy_kray/okhotsk",
+            "name_eng": "okhotsk",
+            "name_rus":  "Охотск"
+        },
+        "angarsk":{
+            "nick": "russia/irkutskaya_obl/angarsk",
+            "name_eng": "angarsk",
+            "name_rus":  "Ангарск"
+        },
+        "baykalsk":{
+            "nick": "russia/irkutskaya_obl/baykalsk",
+            "name_eng": "baykalsk",
+            "name_rus":  "Байкальск"
+        },
+        "bodaibo":{
+            "nick": "russia/irkutskaya_obl/bodaibo",
+            "name_eng": "bodaibo",
+            "name_rus":  "Бодайбо"
+        },
+        "bratsk":{
+            "nick": "russia/irkutskaya_obl/bratsk",
+            "name_eng": "bratsk",
+            "name_rus":  "Братск"
+        },
+        "erbogacen":{
+            "nick": "russia/irkutskaya_obl/erbogacen",
+            "name_eng": "erbogacen",
+            "name_rus":  "Ербогачен"
+        },
+        "kirensk":{
+            "nick": "russia/irkutskaya_obl/kirensk",
+            "name_eng": "kirensk",
+            "name_rus":  "Киренск"
+        },
+        "nizhneudinsk":{
+            "nick": "russia/irkutskaya_obl/nizhneudinsk",
+            "name_eng": "nizhneudinsk",
+            "name_rus":  "Нижнеудинск"
+        },
+        "osa":{
+            "nick": "russia/irkutskaya_obl/osa",
+            "name_eng": "osa",
+            "name_rus":  "Оса"
+        },
+        "ust-kut":{
+            "nick": "russia/irkutskaya_obl/ust-kut",
+            "name_eng": "ust-kut",
+            "name_rus":  "Усть-Кут"
+        },
+        "ust-ordynskij":{
+            "nick": "russia/irkutskaya_obl/ust-ordynskij",
+            "name_eng": "ust-ordynskij",
+            "name_rus":  "Усть-Ордынский"
+        },
+        "kineshma":{
+            "nick": "russia/ivanovskaya_obl/kineshma",
+            "name_eng": "kineshma",
+            "name_rus":  "Кинешма"
+        },
+        "baltiysk":{
+            "nick": "russia/kaliningradskaya_obl/baltiysk",
+            "name_eng": "baltiysk",
+            "name_rus":  "Балтийск"
+        },
+        "svetlogorsk":{
+            "nick": "russia/kaliningradskaya_obl/svetlogorsk",
+            "name_eng": "svetlogorsk",
+            "name_rus":  "Светлогорск"
+        },
+        "maloyaroslavets":{
+            "nick": "russia/kalujskaya_obl/maloyaroslavets",
+            "name_eng": "maloyaroslavets",
+            "name_rus":  "Малоярославец"
+        },
+        "obninsk":{
+            "nick": "russia/kalujskaya_obl/obninsk",
+            "name_eng": "obninsk",
+            "name_rus":  "Обнинск"
+        },
+        "belomorsk":{
+            "nick": "russia/kareliya/belomorsk",
+            "name_eng": "belomorsk",
+            "name_rus":  "Беломорск"
+        },
+        "kalevala":{
+            "nick": "russia/kareliya/kalevala",
+            "name_eng": "kalevala",
+            "name_rus":  "Калевала"
+        },
+        "kostomuksha":{
+            "nick": "russia/kareliya/kostomuksha",
+            "name_eng": "kostomuksha",
+            "name_rus":  "Костомукша"
+        },
+        "novokuznetsk":{
+            "nick": "russia/kemerovskaya_obl/novokuznetsk",
+            "name_eng": "novokuznetsk",
+            "name_rus":  "Новокузнецк"
+        },
+        "kotelnich":{
+            "nick": "russia/kirovskaya_obl/kotelnich",
+            "name_eng": "kotelnich",
+            "name_rus":  "Котельнич"
+        },
+        "inta":{
+            "nick": "russia/komi/inta",
+            "name_eng": "inta",
+            "name_rus":  "Инта"
+        },
+        "pechora":{
+            "nick": "russia/komi/pechora",
+            "name_eng": "pechora",
+            "name_rus":  "Печора"
+        },
+        "sosnogorsk":{
+            "nick": "russia/komi/sosnogorsk",
+            "name_eng": "sosnogorsk",
+            "name_rus":  "Сосногорск"
+        },
+        "uhta":{
+            "nick": "russia/komi/uhta",
+            "name_eng": "uhta",
+            "name_rus":  "Ухта"
+        },
+        "vorkuta":{
+            "nick": "russia/komi/vorkuta",
+            "name_eng": "vorkuta",
+            "name_rus":  "Воркута"
+        },
+        "galich":{
+            "nick": "russia/kostromskaya_obl/galich",
+            "name_eng": "galich",
+            "name_rus":  "Галич"
+        },
+        "anapa":{
+            "nick": "russia/krasnodarskiy_kray/anapa",
+            "name_eng": "anapa",
+            "name_rus":  "Анапа"
+        },
+        "armavir":{
+            "nick": "russia/krasnodarskiy_kray/armavir",
+            "name_eng": "armavir",
+            "name_rus":  "Армавир"
+        },
+        "belorechensk":{
+            "nick": "russia/krasnodarskiy_kray/belorechensk",
+            "name_eng": "belorechensk",
+            "name_rus":  "Белореченск"
+        },
+        "dagomys":{
+            "nick": "russia/krasnodarskiy_kray/dagomys",
+            "name_eng": "dagomys",
+            "name_rus":  "Дагомыс"
+        },
+        "eisk":{
+            "nick": "russia/krasnodarskiy_kray/eisk",
+            "name_eng": "eisk",
+            "name_rus":  "Ейск"
+        },
+        "gelendzik":{
+            "nick": "russia/krasnodarskiy_kray/gelendzik",
+            "name_eng": "gelendzik",
+            "name_rus":  "Геленджик"
+        },
+        "goryachiy_kluch":{
+            "nick": "russia/krasnodarskiy_kray/goryachiy_kluch",
+            "name_eng": "goryachiy_kluch",
+            "name_rus":  "Горячий Ключ"
+        },
+        "lazarevskoe":{
+            "nick": "russia/krasnodarskiy_kray/lazarevskoye",
+            "name_eng": "lazarevskoe",
+            "name_rus":  "Лазаревское"
+        },
+        "novorossisk":{
+            "nick": "russia/krasnodarskiy_kray/novorossisk",
+            "name_eng": "novorossisk",
+            "name_rus":  "Новороссийск"
+        },
+        "primorsko-akhtarsk":{
+            "nick": "russia/krasnodarskiy_kray/primorsko-akhtarsk",
+            "name_eng": "primorsko-akhtarsk",
+            "name_rus":  "Приморско-Ахтарск"
+        },
+        "sochi":{
+            "nick": "russia/krasnodarskiy_kray/sochi",
+            "name_eng": "sochi",
+            "name_rus":  "Сочи"
+        },
+        "tuapse":{
+            "nick": "russia/krasnodarskiy_kray/tuapse",
+            "name_eng": "tuapse",
+            "name_rus":  "Туапсе"
+        },
+        "achinsk":{
+            "nick": "russia/krasnoyarskiy_kray/achinsk",
+            "name_eng": "achinsk",
+            "name_rus":  "Ачинск"
+        },
+        "dikson":{
+            "nick": "russia/krasnoyarskiy_kray/dikson",
+            "name_eng": "dikson",
+            "name_rus":  "Диксон"
+        },
+        "divnogorsk":{
+            "nick": "russia/krasnoyarskiy_kray/divnogorsk",
+            "name_eng": "divnogorsk",
+            "name_rus":  "Дивногорск"
+        },
+        "enisejsk":{
+            "nick": "russia/krasnoyarskiy_kray/enisejsk",
+            "name_eng": "enisejsk",
+            "name_rus":  "Енисейск"
+        },
+        "norilsk":{
+            "nick": "russia/krasnoyarskiy_kray/norilsk",
+            "name_eng": "norilsk",
+            "name_rus":  "Норильск"
+        },
+        "tura":{
+            "nick": "russia/krasnoyarskiy_kray/tura",
+            "name_eng": "tura",
+            "name_rus":  "Тура"
+        },
+        "kurtamysh":{
+            "nick": "russia/kurganskaya_obl/kurtamysh",
+            "name_eng": "kurtamysh",
+            "name_rus":  "Куртамыш"
+        },
+        "fatezh":{
+            "nick": "russia/kurskaya_obl/fatezh",
+            "name_eng": "fatezh",
+            "name_rus":  "Фатеж"
+        },
+        "kurchatov":{
+            "nick": "russia/kurskaya_obl/kurchatov",
+            "name_eng": "kurchatov",
+            "name_rus":  "Курчатов"
+        },
+        "obojan":{
+            "nick": "russia/kurskaya_obl/obojan",
+            "name_eng": "obojan",
+            "name_rus":  "Обоянь"
+        },
+        "rylsk":{
+            "nick": "russia/kurskaya_obl/rylsk",
+            "name_eng": "rylsk",
+            "name_rus":  "Рыльск"
+        },
+        "zheleznogorsk":{
+            "nick": "russia/kurskaya_obl/zheleznogorsk",
+            "name_eng": "zheleznogorsk",
+            "name_rus":  "Железногорск"
+        },
+        "elec":{
+            "nick": "russia/lipetskaya_obl/elec",
+            "name_eng": "elec",
+            "name_rus":  "Елец"
+        },
+        "bilibino":{
+            "nick": "russia/magadanskaya_obl/bilibino",
+            "name_eng": "bilibino",
+            "name_rus":  "Билибино"
+        },
+        "mys_shmidta":{
+            "nick": "russia/magadanskaya_obl/mys_shmidta",
+            "name_eng": "mys_shmidta",
+            "name_rus":  "Мыс Шмидта"
+        },
+        "pevek":{
+            "nick": "russia/magadanskaya_obl/pevek",
+            "name_eng": "pevek",
+            "name_rus":  "Певек"
+        },
+        "sovetsky":{
+            "nick": "russia/mariy_el/sovetsky",
+            "name_eng": "sovetsky",
+            "name_rus":  "Советский"
+        },
+        "balashikha":{
+            "nick": "russia/moskva_i_moskovskaya_obl/balashikha",
+            "name_eng": "balashikha",
+            "name_rus":  "Балашиха"
+        },
+        "chekhov":{
+            "nick": "russia/moskva_i_moskovskaya_obl/chekhov",
+            "name_eng": "chekhov",
+            "name_rus":  "Чехов"
+        },
+        "dmitrov":{
+            "nick": "russia/moskva_i_moskovskaya_obl/dmitrov",
+            "name_eng": "dmitrov",
+            "name_rus":  "Дмитров"
+        },
+        "domodedovo":{
+            "nick": "russia/moskva_i_moskovskaya_obl/domodedovo",
+            "name_eng": "domodedovo",
+            "name_rus":  "Домодедово"
+        },
+        "istra":{
+            "nick": "russia/moskva_i_moskovskaya_obl/istra",
+            "name_eng": "istra",
+            "name_rus":  "Истра"
+        },
+        "kasira":{
+            "nick": "russia/moskva_i_moskovskaya_obl/kasira",
+            "name_eng": "kasira",
+            "name_rus":  "Кашира"
+        },
+        "khimki":{
+            "nick": "russia/moskva_i_moskovskaya_obl/khimki",
+            "name_eng": "khimki",
+            "name_rus":  "Химки"
+        },
+        "klin":{
+            "nick": "russia/moskva_i_moskovskaya_obl/klin",
+            "name_eng": "klin",
+            "name_rus":  "Клин"
+        },
+        "kolomna":{
+            "nick": "russia/moskva_i_moskovskaya_obl/kolomna",
+            "name_eng": "kolomna",
+            "name_rus":  "Коломна"
+        },
+        "krasnogorsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/krasnogorsk",
+            "name_eng": "krasnogorsk",
+            "name_rus":  "Красногорск"
+        },
+        "lotoshino":{
+            "nick": "russia/moskva_i_moskovskaya_obl/lotoshino",
+            "name_eng": "lotoshino",
+            "name_rus":  "Лотошино"
+        },
+        "lyubertsy":{
+            "nick": "russia/moskva_i_moskovskaya_obl/lyubertsy",
+            "name_eng": "lyubertsy",
+            "name_rus":  "Люберцы"
+        },
+        "mozajsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/mozajsk",
+            "name_eng": "mozajsk",
+            "name_rus":  "Можайск"
+        },
+        "mytishchi":{
+            "nick": "russia/moskva_i_moskovskaya_obl/mytishchi",
+            "name_eng": "mytishchi",
+            "name_rus":  "Мытищи"
+        },
+        "naro-fominsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/naro-fominsk",
+            "name_eng": "naro-fominsk",
+            "name_rus":  "Наро-Фоминск"
+        },
+        "noginsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/noginsk",
+            "name_eng": "noginsk",
+            "name_rus":  "Ногинск"
+        },
+        "odyntsovo":{
+            "nick": "russia/moskva_i_moskovskaya_obl/odyntsovo",
+            "name_eng": "odyntsovo",
+            "name_rus":  "Одинцово"
+        },
+        "orekhovo-zuyevo":{
+            "nick": "russia/moskva_i_moskovskaya_obl/orekhovo-zuyevo",
+            "name_eng": "orekhovo-zuyevo",
+            "name_rus":  "Орехово-Зуево"
+        },
+        "ozery":{
+            "nick": "russia/moskva_i_moskovskaya_obl/ozery",
+            "name_eng": "ozery",
+            "name_rus":  "Озёры"
+        },
+        "pavlovskiy_posad":{
+            "nick": "russia/moskva_i_moskovskaya_obl/pavlovskiy_posad",
+            "name_eng": "pavlovskiy_posad",
+            "name_rus":  "Павловский Посад"
+        },
+        "podolsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/podolsk",
+            "name_eng": "podolsk",
+            "name_rus":  "Подольск"
+        },
+        "pushkino":{
+            "nick": "russia/moskva_i_moskovskaya_obl/pushkino",
+            "name_eng": "pushkino",
+            "name_rus":  "Пушкино"
+        },
+        "ramenskoe":{
+            "nick": "russia/moskva_i_moskovskaya_obl/ramenskoe",
+            "name_eng": "ramenskoe",
+            "name_rus":  "Раменское"
+        },
+        "ruza":{
+            "nick": "russia/moskva_i_moskovskaya_obl/ruza",
+            "name_eng": "ruza",
+            "name_rus":  "Руза"
+        },
+        "sergiev_posad":{
+            "nick": "russia/moskva_i_moskovskaya_obl/sergiev_posad",
+            "name_eng": "sergiev_posad",
+            "name_rus":  "Сергиев Посад"
+        },
+        "serpukhov":{
+            "nick": "russia/moskva_i_moskovskaya_obl/serpukhov",
+            "name_eng": "serpukhov",
+            "name_rus":  "Серпухов"
+        },
+        "shatura":{
+            "nick": "russia/moskva_i_moskovskaya_obl/shatura",
+            "name_eng": "shatura",
+            "name_rus":  "Шатура"
+        },
+        "sheremetievo":{
+            "nick": "russia/moskva_i_moskovskaya_obl/sheremetievo",
+            "name_eng": "sheremetievo",
+            "name_rus":  "Шереметьево"
+        },
+        "solnechnogorsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/solnechnogorsk",
+            "name_eng": "solnechnogorsk",
+            "name_rus":  "Солнечногорск"
+        },
+        "stupino":{
+            "nick": "russia/moskva_i_moskovskaya_obl/stupino",
+            "name_eng": "stupino",
+            "name_rus":  "Ступино"
+        },
+        "taldom":{
+            "nick": "russia/moskva_i_moskovskaya_obl/taldom",
+            "name_eng": "taldom",
+            "name_rus":  "Талдом"
+        },
+        "troick":{
+            "nick": "russia/moskva_i_moskovskaya_obl/troick",
+            "name_eng": "troick",
+            "name_rus":  "Троицк"
+        },
+        "vidnoe":{
+            "nick": "russia/moskva_i_moskovskaya_obl/vidnoe",
+            "name_eng": "vidnoe",
+            "name_rus":  "Видное"
+        },
+        "vnukovo":{
+            "nick": "russia/moskva_i_moskovskaya_obl/vnukovo",
+            "name_eng": "vnukovo",
+            "name_rus":  "Внуково"
+        },
+        "volokolamsk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/volokolamsk",
+            "name_eng": "volokolamsk",
+            "name_rus":  "Волоколамск"
+        },
+        "voskresensk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/voskresensk",
+            "name_eng": "voskresensk",
+            "name_rus":  "Воскресенск"
+        },
+        "zaraysk":{
+            "nick": "russia/moskva_i_moskovskaya_obl/zaraysk",
+            "name_eng": "zaraysk",
+            "name_rus":  "Зарайск"
+        },
+        "zelenograd":{
+            "nick": "russia/moskva_i_moskovskaya_obl/zelenograd",
+            "name_eng": "zelenograd",
+            "name_rus":  "Зеленоград"
+        },
+        "zvenigorod":{
+            "nick": "russia/moskva_i_moskovskaya_obl/zvenigorod",
+            "name_eng": "zvenigorod",
+            "name_rus":  "Звенигород"
+        },
+        "apatity":{
+            "nick": "russia/murmanskaya_obl/apatity",
+            "name_eng": "apatity",
+            "name_rus":  "Апатиты"
+        },
+        "kandalaksha":{
+            "nick": "russia/murmanskaya_obl/kandalaksha",
+            "name_eng": "kandalaksha",
+            "name_rus":  "Кандалакша"
+        },
+        "olenegorsk":{
+            "nick": "russia/murmanskaya_obl/olenegorsk",
+            "name_eng": "olenegorsk",
+            "name_rus":  "Оленегорск"
+        },
+        "pechenga":{
+            "nick": "russia/murmanskaya_obl/pechenga",
+            "name_eng": "pechenga",
+            "name_rus":  "Печенга"
+        },
+        "severomorsk":{
+            "nick": "russia/murmanskaya_obl/severomorsk",
+            "name_eng": "severomorsk",
+            "name_rus":  "Североморск"
+        },
+        "snezhnogorsk":{
+            "nick": "russia/murmanskaya_obl/snezhnogorsk",
+            "name_eng": "snezhnogorsk",
+            "name_rus":  "Снежногорск"
+        },
+        "arzamas":{
+            "nick": "russia/nijegorodskaya/arzamas",
+            "name_eng": "arzamas",
+            "name_rus":  "Арзамас"
+        },
+        "dzerzhinsk":{
+            "nick": "russia/nijegorodskaya/dzerzhinsk",
+            "name_eng": "dzerzhinsk",
+            "name_rus":  "Дзержинск"
+        },
+        "staraja_russa":{
+            "nick": "russia/novgorodskaya_obl/staraja_russa",
+            "name_eng": "staraja_russa",
+            "name_rus":  "Старая Русса"
+        },
+        "kalachinsk":{
+            "nick": "russia/omskaya_obl/kalachinsk",
+            "name_eng": "kalachinsk",
+            "name_rus":  "Калачинск"
+        },
+        "buguruslan":{
+            "nick": "russia/orenburgskaya_obl/buguruslan",
+            "name_eng": "buguruslan",
+            "name_rus":  "Бугуруслан"
+        },
+        "buzuluk":{
+            "nick": "russia/orenburgskaya_obl/buzuluk",
+            "name_eng": "buzuluk",
+            "name_rus":  "Бузулук"
+        },
+        "mednogorsk":{
+            "nick": "russia/orenburgskaya_obl/mednogorsk",
+            "name_eng": "mednogorsk",
+            "name_rus":  "Медногорск"
+        },
+        "oktyabrskoe":{
+            "nick": "russia/orenburgskaya_obl/oktyabrskoe",
+            "name_eng": "oktyabrskoe",
+            "name_rus":  "Октябрьское"
+        },
+        "orsk":{
+            "nick": "russia/orenburgskaya_obl/orsk",
+            "name_eng": "orsk",
+            "name_rus":  "Орск"
+        },
+        "mcensk":{
+            "nick": "russia/orlovskaya_obl/mcensk",
+            "name_eng": "mcensk",
+            "name_rus":  "Мценск"
+        },
+        "berezniki":{
+            "nick": "russia/permskaya_obl/berezniki",
+            "name_eng": "berezniki",
+            "name_rus":  "Березники"
+        },
+        "solikamsk":{
+            "nick": "russia/permskaya_obl/solikamsk",
+            "name_eng": "solikamsk",
+            "name_rus":  "Соликамск"
+        },
+        "arseniev":{
+            "nick": "russia/primorskiy_kray/arseniev",
+            "name_eng": "arseniev",
+            "name_rus":  "Арсеньев"
+        },
+        "artem":{
+            "nick": "russia/primorskiy_kray/artem",
+            "name_eng": "artem",
+            "name_rus":  "Артем"
+        },
+        "nahodka":{
+            "nick": "russia/primorskiy_kray/nahodka",
+            "name_eng": "nahodka",
+            "name_rus":  "Находка"
+        },
+        "partizansk":{
+            "nick": "russia/primorskiy_kray/partizansk",
+            "name_eng": "partizansk",
+            "name_rus":  "Партизанск"
+        },
+        "ussurijsk":{
+            "nick": "russia/primorskiy_kray/ussurijsk",
+            "name_eng": "ussurijsk",
+            "name_rus":  "Уссурийск"
+        },
+        "pushkinskie_gory":{
+            "nick": "russia/pskovskaya_obl/pushkinskie_gory",
+            "name_eng": "pushkinskie_gory",
+            "name_rus":  "Пушкинские Горы"
+        },
+        "velikie_luki":{
+            "nick": "russia/pskovskaya_obl/velikie_luki",
+            "name_eng": "velikie_luki",
+            "name_rus":  "Великие Луки"
+        },
+        "azov":{
+            "nick": "russia/rostovskaya_obl/azov",
+            "name_eng": "azov",
+            "name_rus":  "Азов"
+        },
+        "taganrog":{
+            "nick": "russia/rostovskaya_obl/taganrog",
+            "name_eng": "taganrog",
+            "name_rus":  "Таганрог"
+        },
+        "volgodonsk":{
+            "nick": "russia/rostovskaya_obl/volgodonsk",
+            "name_eng": "volgodonsk",
+            "name_rus":  "Волгодонск"
+        },
+        "kasimov":{
+            "nick": "russia/ryazanskaya_obl/kasimov",
+            "name_eng": "kasimov",
+            "name_rus":  "Касимов"
+        },
+        "tiksi":{
+            "nick": "russia/saha/tiksi",
+            "name_eng": "tiksi",
+            "name_rus":  "Тикси"
+        },
+        "verhojansk":{
+            "nick": "russia/saha/verhojansk",
+            "name_eng": "verhojansk",
+            "name_rus":  "Верхоянск"
+        },
+        "viljujsk":{
+            "nick": "russia/saha/viljujsk",
+            "name_eng": "viljujsk",
+            "name_rus":  "Вилюйск"
+        },
+        "vitim":{
+            "nick": "russia/saha/vitim",
+            "name_eng": "vitim",
+            "name_rus":  "Витим"
+        },
+        "nevelsk":{
+            "nick": "russia/sahalin/nevelsk",
+            "name_eng": "nevelsk",
+            "name_rus":  "Невельск"
+        },
+        "okha":{
+            "nick": "russia/sahalin/okha",
+            "name_eng": "okha",
+            "name_rus":  "Оха"
+        },
+        "poronajsk":{
+            "nick": "russia/sahalin/poronajsk",
+            "name_eng": "poronajsk",
+            "name_rus":  "Поронайск"
+        },
+        "neftegorsk":{
+            "nick": "russia/samarskaya_obl/neftegorsk",
+            "name_eng": "neftegorsk",
+            "name_rus":  "Нефтегорск"
+        },
+        "syzran":{
+            "nick": "russia/samarskaya_obl/syzran",
+            "name_eng": "syzran",
+            "name_rus":  "Сызрань"
+        },
+        "tolyatti":{
+            "nick": "russia/samarskaya_obl/tolyatti",
+            "name_eng": "tolyatti",
+            "name_rus":  "Тольятти"
+        },
+        "zhigulevsk":{
+            "nick": "russia/samarskaya_obl/zhigulevsk",
+            "name_eng": "zhigulevsk",
+            "name_rus":  "Жигулевск"
+        },
+        "gatchina":{
+            "nick": "russia/sankt-peterburg_i_oblast/gatchina",
+            "name_eng": "gatchina",
+            "name_rus":  "Гатчина"
+        },
+        "kirishi":{
+            "nick": "russia/sankt-peterburg_i_oblast/kirishi",
+            "name_eng": "kirishi",
+            "name_rus":  "Кириши"
+        },
+        "lodejnoe_pole":{
+            "nick": "russia/sankt-peterburg_i_oblast/lodejnoe_pole",
+            "name_eng": "lodejnoe_pole",
+            "name_rus":  "Лодейное Поле"
+        },
+        "priozersk":{
+            "nick": "russia/sankt-peterburg_i_oblast/priozersk",
+            "name_eng": "priozersk",
+            "name_rus":  "Приозерск"
+        },
+        "sosnovy_bor":{
+            "nick": "russia/sankt-peterburg_i_oblast/sosnovy_bor",
+            "name_eng": "sosnovy_bor",
+            "name_rus":  "Сосновый Бор"
+        },
+        "tikhvin":{
+            "nick": "russia/sankt-peterburg_i_oblast/tikhvin",
+            "name_eng": "tikhvin",
+            "name_rus":  "Тихвин"
+        },
+        "tosno":{
+            "nick": "russia/sankt-peterburg_i_oblast/tosno",
+            "name_eng": "tosno",
+            "name_rus":  "Тосно"
+        },
+        "volkhov":{
+            "nick": "russia/sankt-peterburg_i_oblast/volkhov",
+            "name_eng": "volkhov",
+            "name_rus":  "Волхов"
+        },
+        "vsevolozhsk":{
+            "nick": "russia/sankt-peterburg_i_oblast/vsevolozhsk",
+            "name_eng": "vsevolozhsk",
+            "name_rus":  "Всеволожск"
+        },
+        "vyborg":{
+            "nick": "russia/sankt-peterburg_i_oblast/vyborg",
+            "name_eng": "vyborg",
+            "name_rus":  "Выборг"
+        },
+        "balashov":{
+            "nick": "russia/saratovskaya_obl/balashov",
+            "name_eng": "balashov",
+            "name_rus":  "Балашов"
+        },
+        "engels":{
+            "nick": "russia/saratovskaya_obl/engels",
+            "name_eng": "engels",
+            "name_rus":  "Энгельс"
+        },
+        "ershov":{
+            "nick": "russia/saratovskaya_obl/ershov",
+            "name_eng": "ershov",
+            "name_rus":  "Ершов"
+        },
+        "elnya":{
+            "nick": "russia/smolenskaya_obl/elnya",
+            "name_eng": "elnya",
+            "name_rus":  "Ельня"
+        },
+        "gagarin":{
+            "nick": "russia/smolenskaya_obl/gagarin",
+            "name_eng": "gagarin",
+            "name_rus":  "Гагарин"
+        },
+        "roslavl":{
+            "nick": "russia/smolenskaya_obl/roslavl",
+            "name_eng": "roslavl",
+            "name_rus":  "Рославль"
+        },
+        "vyazma":{
+            "nick": "russia/smolenskaya_obl/vyazma",
+            "name_eng": "vyazma",
+            "name_rus":  "Вязьма"
+        },
+        "budionovsk":{
+            "nick": "russia/stavropolskiy_kray/budionovsk",
+            "name_eng": "budionovsk",
+            "name_rus":  "Буденновск"
+        },
+        "dombai":{
+            "nick": "russia/stavropolskiy_kray/dombai",
+            "name_eng": "dombai",
+            "name_rus":  "Домбай"
+        },
+        "essentuki":{
+            "nick": "russia/stavropolskiy_kray/essentuki",
+            "name_eng": "essentuki",
+            "name_rus":  "Ессентуки"
+        },
+        "kislovodsk":{
+            "nick": "russia/stavropolskiy_kray/kislovodsk",
+            "name_eng": "kislovodsk",
+            "name_rus":  "Кисловодск"
+        },
+        "mineralnie_vodi":{
+            "nick": "russia/stavropolskiy_kray/mineralnie_vodi",
+            "name_eng": "mineralnie_vodi",
+            "name_rus":  "Минеральные Воды"
+        },
+        "nevinnomyssk":{
+            "nick": "russia/stavropolskiy_kray/nevinnomyssk",
+            "name_eng": "nevinnomyssk",
+            "name_rus":  "Невинномысск"
+        },
+        "pjatigorsk":{
+            "nick": "russia/stavropolskiy_kray/pjatigorsk",
+            "name_eng": "pjatigorsk",
+            "name_rus":  "Пятигорск"
+        },
+        "teberda":{
+            "nick": "russia/stavropolskiy_kray/teberda",
+            "name_eng": "teberda",
+            "name_rus":  "Теберда"
+        },
+        "irbit":{
+            "nick": "russia/sverdlovskaya_obl/irbit",
+            "name_eng": "irbit",
+            "name_rus":  "Ирбит"
+        },
+        "kachkanar":{
+            "nick": "russia/sverdlovskaya_obl/kachkanar",
+            "name_eng": "kachkanar",
+            "name_rus":  "Качканар"
+        },
+        "kamyslov":{
+            "nick": "russia/sverdlovskaya_obl/kamyslov",
+            "name_eng": "kamyslov",
+            "name_rus":  "Камышлов"
+        },
+        "krasnoufimsk":{
+            "nick": "russia/sverdlovskaya_obl/krasnoufimsk",
+            "name_eng": "krasnoufimsk",
+            "name_rus":  "Красноуфимск"
+        },
+        "krasnouralsk":{
+            "nick": "russia/sverdlovskaya_obl/krasnouralsk",
+            "name_eng": "krasnouralsk",
+            "name_rus":  "Красноуральск"
+        },
+        "nevyansk":{
+            "nick": "russia/sverdlovskaya_obl/nevyansk",
+            "name_eng": "nevyansk",
+            "name_rus":  "Невьянск"
+        },
+        "nizhni_tagil":{
+            "nick": "russia/sverdlovskaya_obl/nizhni_tagil",
+            "name_eng": "nizhni_tagil",
+            "name_rus":  "Нижний Тагил"
+        },
+        "verhoturje":{
+            "nick": "russia/sverdlovskaya_obl/verhoturje",
+            "name_eng": "verhoturje",
+            "name_rus":  "Верхотурье"
+        },
+        "verkhnyj_tagil":{
+            "nick": "russia/sverdlovskaya_obl/verkhnyj_tagil",
+            "name_eng": "verkhnyj_tagil",
+            "name_rus":  "Верхний Тагил"
+        },
+        "micurinsk":{
+            "nick": "russia/tambovskaya_obl/micurinsk",
+            "name_eng": "micurinsk",
+            "name_rus":  "Мичуринск"
+        },
+        "bugulma":{
+            "nick": "russia/tatarstan/bugulma",
+            "name_eng": "bugulma",
+            "name_rus":  "Бугульма"
+        },
+        "elabuga":{
+            "nick": "russia/tatarstan/elabuga",
+            "name_eng": "elabuga",
+            "name_rus":  "Елабуга"
+        },
+        "naberezhnye_chelny":{
+            "nick": "russia/tatarstan/naberezhnye_chelny",
+            "name_eng": "naberezhnye_chelny",
+            "name_rus":  "Набережные Челны"
+        },
+        "nizhnekamsk":{
+            "nick": "russia/tatarstan/nizhnekamsk",
+            "name_eng": "nizhnekamsk",
+            "name_rus":  "Нижнекамск"
+        },
+        "kolpashevo":{
+            "nick": "russia/tomskaya_obl/kolpashevo",
+            "name_eng": "kolpashevo",
+            "name_rus":  "Колпашево"
+        },
+        "aleksin":{
+            "nick": "russia/tulskaya_obl/aleksin",
+            "name_eng": "aleksin",
+            "name_rus":  "Алексин"
+        },
+        "novomoskovsk":{
+            "nick": "russia/tulskaya_obl/novomoskovsk",
+            "name_eng": "novomoskovsk",
+            "name_rus":  "Новомосковск"
+        },
+        "ostaskov":{
+            "nick": "russia/tverskaya_obl/ostaskov",
+            "name_eng": "ostaskov",
+            "name_rus":  "Осташков"
+        },
+        "isim":{
+            "nick": "russia/tyumenskaya_obl/isim",
+            "name_eng": "isim",
+            "name_rus":  "Ишим"
+        },
+        "neftejugansk":{
+            "nick": "russia/tyumenskaya_obl/neftejugansk",
+            "name_eng": "neftejugansk",
+            "name_rus":  "Нефтеюганск"
+        },
+        "nizhnevartovsk":{
+            "nick": "russia/tyumenskaya_obl/nizhnevartovsk",
+            "name_eng": "nizhnevartovsk",
+            "name_rus":  "Нижневартовск"
+        },
+        "nojabrsk":{
+            "nick": "russia/tyumenskaya_obl/nojabrsk",
+            "name_eng": "nojabrsk",
+            "name_rus":  "Ноябрьск"
+        },
+        "novyj_urengoj":{
+            "nick": "russia/tyumenskaya_obl/novyj_urengoj",
+            "name_eng": "novyj_urengoj",
+            "name_rus":  "Новый Уренгой"
+        },
+        "surgut":{
+            "nick": "russia/tyumenskaya_obl/surgut",
+            "name_eng": "surgut",
+            "name_rus":  "Сургут"
+        },
+        "tobolsk":{
+            "nick": "russia/tyumenskaya_obl/tobolsk",
+            "name_eng": "tobolsk",
+            "name_rus":  "Тобольск"
+        },
+        "yamburg":{
+            "nick": "russia/tyumenskaya_obl/yamburg",
+            "name_eng": "yamburg",
+            "name_rus":  "Ямбург"
+        },
+        "votkinsk":{
+            "nick": "russia/udmurtiya/votkinsk",
+            "name_eng": "votkinsk",
+            "name_rus":  "Воткинск"
+        },
+        "gus-hrustalny":{
+            "nick": "russia/vladimirskaya_obl/gus-hrustalny",
+            "name_eng": "gus-hrustalny",
+            "name_rus":  "Гусь-Хрустальный"
+        },
+        "kirzhach":{
+            "nick": "russia/vladimirskaya_obl/kirzhach",
+            "name_eng": "kirzhach",
+            "name_rus":  "Киржач"
+        },
+        "kovrov":{
+            "nick": "russia/vladimirskaya_obl/kovrov",
+            "name_eng": "kovrov",
+            "name_rus":  "Ковров"
+        },
+        "murom":{
+            "nick": "russia/vladimirskaya_obl/murom",
+            "name_eng": "murom",
+            "name_rus":  "Муром"
+        },
+        "petushki":{
+            "nick": "russia/vladimirskaya_obl/petushki",
+            "name_eng": "petushki",
+            "name_rus":  "Петушки"
+        },
+        "suzdal":{
+            "nick": "russia/vladimirskaya_obl/suzdal",
+            "name_eng": "suzdal",
+            "name_rus":  "Суздаль"
+        },
+        "yuryev-polsky":{
+            "nick": "russia/vladimirskaya_obl/yuryev-polsky",
+            "name_eng": "yuryev-polsky",
+            "name_rus":  "Юрьев-Польский"
+        },
+        "bykovo":{
+            "nick": "russia/volgogradskaya_obl/bykovo",
+            "name_eng": "bykovo",
+            "name_rus":  "Быково"
+        },
+        "kamyshin":{
+            "nick": "russia/volgogradskaya_obl/kamyshin",
+            "name_eng": "kamyshin",
+            "name_rus":  "Камышин"
+        },
+        "urjupinsk":{
+            "nick": "russia/volgogradskaya_obl/urjupinsk",
+            "name_eng": "urjupinsk",
+            "name_rus":  "Урюпинск"
+        },
+        "cherepovets":{
+            "nick": "russia/vologodskaya_obl/cherepovets",
+            "name_eng": "cherepovets",
+            "name_rus":  "Череповец"
+        },
+        "totma":{
+            "nick": "russia/vologodskaya_obl/totma",
+            "name_eng": "totma",
+            "name_rus":  "Тотьма"
+        },
+        "ustyuzhna":{
+            "nick": "russia/vologodskaya_obl/ustyuzhna",
+            "name_eng": "ustyuzhna",
+            "name_rus":  "Устюжна"
+        },
+        "velikij_ustyug":{
+            "nick": "russia/vologodskaya_obl/velikij_ustyug",
+            "name_eng": "velikij_ustyug",
+            "name_rus":  "Великий Устюг"
+        },
+        "bogucar":{
+            "nick": "russia/voronejskaya_obl/bogucar",
+            "name_eng": "bogucar",
+            "name_rus":  "Богучар"
+        },
+        "rossosh":{
+            "nick": "russia/voronejskaya_obl/rossosh",
+            "name_eng": "rossosh",
+            "name_rus":  "Россошь"
+        },
+        "pereslavl_-_zalessky":{
+            "nick": "russia/yaroslavskaya_obl/pereslavl_-_zalessky",
+            "name_eng": "pereslavl_-_zalessky",
+            "name_rus":  "Переславль-Залесский"
+        },
+        "rostov":{
+            "nick": "russia/yaroslavskaya_obl/rostov",
+            "name_eng": "rostov",
+            "name_rus":  "Ростов"
+        },
+        "rybinsk":{
+            "nick": "russia/yaroslavskaya_obl/rybinsk",
+            "name_eng": "rybinsk",
+            "name_rus":  "Рыбинск"
+        },
+        "uglich":{
+            "nick": "russia/yaroslavskaya_obl/uglich",
+            "name_eng": "uglich",
+            "name_rus":  "Углич"
+        },
+        "pristina":{
+            "nick": "serbia/d/pristina",
+            "name_eng": "pristina",
+            "name_rus":  "Приштина"
+        },
+        "colombo":{
+            "nick": "shri-lanka/d/colombo",
+            "name_eng": "colombo",
+            "name_rus":  "Коломбо"
+        },
+        "makeni":{
+            "nick": "sierra_leone/d/makeni",
+            "name_eng": "makeni",
+            "name_rus":  "Макени"
+        },
+        "kosice":{
+            "nick": "slovakia/d/kosice",
+            "name_eng": "kosice",
+            "name_rus":  "Кошице"
+        },
+        "barcelona":{
+            "nick": "spain/d/barcelona",
+            "name_eng": "barcelona",
+            "name_rus":  "Барселона"
+        },
+        "cordoba":{
+            "nick": "spain/d/cordoba",
+            "name_eng": "cordoba",
+            "name_rus":  "Кордова"
+        },
+        "malaga":{
+            "nick": "spain/d/malaga",
+            "name_eng": "malaga",
+            "name_rus":  "Малага"
+        },
+        "santa-krus-de-tenerife":{
+            "nick": "spain/d/santa-krus-de-tenerife",
+            "name_eng": "santa-krus-de-tenerife",
+            "name_rus":  "Санта-Крус-Де-Тенерифе"
+        },
+        "sevilla":{
+            "nick": "spain/d/sevilla",
+            "name_eng": "sevilla",
+            "name_rus":  "Севилья"
+        },
+        "valencia":{
+            "nick": "spain/d/valencia",
+            "name_eng": "valencia",
+            "name_rus":  "Валенсия"
+        },
+        "manzini":{
+            "nick": "swaziland/d/manzini",
+            "name_eng": "manzini",
+            "name_rus":  "Манзини"
+        },
+        "goteborg":{
+            "nick": "sweden/d/goteborg",
+            "name_eng": "goteborg",
+            "name_rus":  "Гетеборг"
+        },
+        "davos":{
+            "nick": "switzerland/d/davos",
+            "name_eng": "davos",
+            "name_rus":  "Давос"
+        },
+        "geneve":{
+            "nick": "switzerland/d/geneve",
+            "name_eng": "geneve",
+            "name_rus":  "Женева"
+        },
+        "lausanne":{
+            "nick": "switzerland/d/lausanne",
+            "name_eng": "lausanne",
+            "name_rus":  "Лозанна"
+        },
+        "lugano":{
+            "nick": "switzerland/d/lugano",
+            "name_eng": "lugano",
+            "name_rus":  "Лугано"
+        },
+        "zermatt":{
+            "nick": "switzerland/d/zermatt",
+            "name_eng": "zermatt",
+            "name_rus":  "Церматт"
+        },
+        "zurich":{
+            "nick": "switzerland/d/zurich",
+            "name_eng": "zurich",
+            "name_rus":  "Цюрих"
+        },
+        "pattaya":{
+            "nick": "thailand/d/pattaya",
+            "name_eng": "pattaya",
+            "name_rus":  "Паттайя"
+        },
+        "phuket":{
+            "nick": "thailand/d/phuket",
+            "name_eng": "phuket",
+            "name_rus":  "Пхукет"
+        },
+        "samui":{
+            "nick": "thailand/d/samui",
+            "name_eng": "samui",
+            "name_rus":  "Самуи"
+        },
+        "alanya":{
+            "nick": "turkey/d/alanya",
+            "name_eng": "alanya",
+            "name_rus":  "Аланья"
+        },
+        "antaliia":{
+            "nick": "turkey/d/antaliia",
+            "name_eng": "antaliia",
+            "name_rus":  "Анталия"
+        },
+        "belek":{
+            "nick": "turkey/d/belek",
+            "name_eng": "belek",
+            "name_rus":  "Белек"
+        },
+        "bodrum":{
+            "nick": "turkey/d/bodrum",
+            "name_eng": "bodrum",
+            "name_rus":  "Бодрум"
+        },
+        "fethie":{
+            "nick": "turkey/d/fethie",
+            "name_eng": "fethie",
+            "name_rus":  "Фетхие"
+        },
+        "istanbul":{
+            "nick": "turkey/d/istanbul",
+            "name_eng": "istanbul",
+            "name_rus":  "Стамбул"
+        },
+        "kemer":{
+            "nick": "turkey/d/kemer",
+            "name_eng": "kemer",
+            "name_rus":  "Кемер"
+        },
+        "kushadasy":{
+            "nick": "turkey/d/kushadasy",
+            "name_eng": "kushadasy",
+            "name_rus":  "Кушадасы"
+        },
+        "marmaris":{
+            "nick": "turkey/d/marmaris",
+            "name_eng": "marmaris",
+            "name_rus":  "Мармарис"
+        },
+        "sarykamysh":{
+            "nick": "turkey/d/sarykamysh",
+            "name_eng": "sarykamysh",
+            "name_rus":  "Сарыкамыш"
+        },
+        "alushta":{
+            "nick": "ukraine/d/alushta",
+            "name_eng": "alushta",
+            "name_rus":  "Алушта"
+        },
+        "dnepropetrovsk":{
+            "nick": "ukraine/d/dnepropetrovsk",
+            "name_eng": "dnepropetrovsk",
+            "name_rus":  "Днепропетровск"
+        },
+        "donetsk":{
+            "nick": "ukraine/d/donetsk",
+            "name_eng": "donetsk",
+            "name_rus":  "Донецк"
+        },
+        "feodosiia":{
+            "nick": "ukraine/d/feodosiia",
+            "name_eng": "feodosiia",
+            "name_rus":  "Феодосия"
+        },
+        "harkov":{
+            "nick": "ukraine/d/harkov",
+            "name_eng": "harkov",
+            "name_rus":  "Харьков"
+        },
+        "herson":{
+            "nick": "ukraine/d/herson",
+            "name_eng": "herson",
+            "name_rus":  "Херсон"
+        },
+        "jitomir":{
+            "nick": "ukraine/d/jitomir",
+            "name_eng": "jitomir",
+            "name_rus":  "Житомир"
+        },
+        "kerch":{
+            "nick": "ukraine/d/kerch",
+            "name_eng": "kerch",
+            "name_rus":  "Керчь"
+        },
+        "lvov":{
+            "nick": "ukraine/d/lvov",
+            "name_eng": "lvov",
+            "name_rus":  "Львов"
+        },
+        "nikolaev":{
+            "nick": "ukraine/d/nikolaev",
+            "name_eng": "nikolaev",
+            "name_rus":  "Николаев"
+        },
+        "odesa":{
+            "nick": "ukraine/d/odesa",
+            "name_eng": "odesa",
+            "name_rus":  "Одесса"
+        },
+        "rovno":{
+            "nick": "ukraine/d/rovno",
+            "name_eng": "rovno",
+            "name_rus":  "Ровно"
+        },
+        "sevastopol":{
+            "nick": "ukraine/d/sevastopol",
+            "name_eng": "sevastopol",
+            "name_rus":  "Севастополь"
+        },
+        "simferopol":{
+            "nick": "ukraine/d/simferopol",
+            "name_eng": "simferopol",
+            "name_rus":  "Симферополь"
+        },
+        "sudak":{
+            "nick": "ukraine/d/sudak",
+            "name_eng": "sudak",
+            "name_rus":  "Судак"
+        },
+        "yalta":{
+            "nick": "ukraine/d/yalta",
+            "name_eng": "yalta",
+            "name_rus":  "Ялта"
+        },
+        "yevpatoriia":{
+            "nick": "ukraine/d/yevpatoriia",
+            "name_eng": "yevpatoriia",
+            "name_rus":  "Евпатория"
+        },
+        "dubai":{
+            "nick": "united_arab_emirates/d/dubai",
+            "name_eng": "dubai",
+            "name_rus":  "Дубаи"
+        },
+        "shardzha":{
+            "nick": "united_arab_emirates/d/shardzha",
+            "name_eng": "shardzha",
+            "name_rus":  "Шарджа"
+        },
+        "birmingham":{
+            "nick": "united_kingdom/d/birmingham",
+            "name_eng": "birmingham",
+            "name_rus":  "Бирмингем"
+        },
+        "bristol":{
+            "nick": "united_kingdom/d/bristol",
+            "name_eng": "bristol",
+            "name_rus":  "Бристоль"
+        },
+        "cambridge":{
+            "nick": "united_kingdom/d/cambridge",
+            "name_eng": "cambridge",
+            "name_rus":  "Кембридж"
+        },
+        "edinburgh":{
+            "nick": "united_kingdom/d/edinburgh",
+            "name_eng": "edinburgh",
+            "name_rus":  "Эдинбург"
+        },
+        "glasgow":{
+            "nick": "united_kingdom/d/glasgow",
+            "name_eng": "glasgow",
+            "name_rus":  "Глазго"
+        },
+        "liverpool":{
+            "nick": "united_kingdom/d/liverpool",
+            "name_eng": "liverpool",
+            "name_rus":  "Ливерпуль"
+        },
+        "manchester":{
+            "nick": "united_kingdom/d/manchester",
+            "name_eng": "manchester",
+            "name_rus":  "Манчестер"
+        },
+        "oxford":{
+            "nick": "united_kingdom/d/oxford",
+            "name_eng": "oxford",
+            "name_rus":  "Оксфорд"
+        },
+        "atlanta":{
+            "nick": "united_states/d/atlanta",
+            "name_eng": "atlanta",
+            "name_rus":  "Атланта"
+        },
+        "baltimore":{
+            "nick": "united_states/d/baltimore",
+            "name_eng": "baltimore",
+            "name_rus":  "Балтимор"
+        },
+        "boston":{
+            "nick": "united_states/d/boston",
+            "name_eng": "boston",
+            "name_rus":  "Бостон"
+        },
+        "chicago":{
+            "nick": "united_states/d/chicago",
+            "name_eng": "chicago",
+            "name_rus":  "Чикаго"
+        },
+        "denver":{
+            "nick": "united_states/d/denver",
+            "name_eng": "denver",
+            "name_rus":  "Денвер"
+        },
+        "detroit":{
+            "nick": "united_states/d/detroit",
+            "name_eng": "detroit",
+            "name_rus":  "Детройт"
+        },
+        "honolulu":{
+            "nick": "united_states/d/honolulu",
+            "name_eng": "honolulu",
+            "name_rus":  "Гонолулу"
+        },
+        "houston":{
+            "nick": "united_states/d/houston",
+            "name_eng": "houston",
+            "name_rus":  "Хьюстон"
+        },
+        "indianapolis":{
+            "nick": "united_states/d/indianapolis",
+            "name_eng": "indianapolis",
+            "name_rus":  "Индианаполис"
+        },
+        "kansas-city":{
+            "nick": "united_states/d/kansas-city",
+            "name_eng": "kansas-city",
+            "name_rus":  "Канзас-Сити"
+        },
+        "los_angeles":{
+            "nick": "united_states/d/los_angeles",
+            "name_eng": "los_angeles",
+            "name_rus":  "Лос-Анджелес"
+        },
+        "madison":{
+            "nick": "united_states/d/madison",
+            "name_eng": "madison",
+            "name_rus":  "Мадисон"
+        },
+        "new_orleans":{
+            "nick": "united_states/d/new_orleans",
+            "name_eng": "new_orleans",
+            "name_rus":  "Новый Орлеан"
+        },
+        "new_york":{
+            "nick": "united_states/d/new_york",
+            "name_eng": "new_york",
+            "name_rus":  "Нью-Йорк"
+        },
+        "philadelphia":{
+            "nick": "united_states/d/philadelphia",
+            "name_eng": "philadelphia",
+            "name_rus":  "Филадельфия"
+        },
+        "portland":{
+            "nick": "united_states/d/portland",
+            "name_eng": "portland",
+            "name_rus":  "Портленд"
+        },
+        "sacramento":{
+            "nick": "united_states/d/sacramento",
+            "name_eng": "sacramento",
+            "name_rus":  "Сакраменто"
+        },
+        "san_francisco":{
+            "nick": "united_states/d/san_francisco",
+            "name_eng": "san_francisco",
+            "name_rus":  "Сан-Франциско"
+        },
+        "seattle":{
+            "nick": "united_states/d/seattle",
+            "name_eng": "seattle",
+            "name_rus":  "Сиэтл"
+        },
+        "buhara":{
+            "nick": "uzbekistan/d/buhara",
+            "name_eng": "buhara",
+            "name_rus":  "Бухара"
+        },
+        "samarkand":{
+            "nick": "uzbekistan/d/samarkand",
+            "name_eng": "samarkand",
+            "name_rus":  "Самарканд"
+        },
+        "cape_town":{
+            "nick": "yuar/d/cape_town",
+            "name_eng": "cape_town",
+            "name_rus":  "Кейптаун"
+        },
+        "barnaul":{
+            "nick": "russia/altayskiy_kray/barnaul",
+            "name_eng": "barnaul",
+            "name_rus":  "Барнаул"
+        },
+        "blagoveshchensk":{
+            "nick": "russia/altayskiy_kray/blagoveshchensk",
+            "name_eng": "blagoveshchensk",
+            "name_rus":  "Благовещенск"
+        },
+        "gorno-altaisk":{
+            "nick": "russia/altayskiy_kray/gorno-altaisk",
+            "name_eng": "gorno-altaisk",
+            "name_rus":  "Горно-Алтайск"
+        },
+        "arhangelsk":{
+            "nick": "russia/arhangelskaya_obl/arhangelsk",
+            "name_eng": "arhangelsk",
+            "name_rus":  "Архангельск"
+        },
+        "narian-mar":{
+            "nick": "russia/arhangelskaya_obl/narian-mar",
+            "name_eng": "narian-mar",
+            "name_rus":  "Нарьян-Мар"
+        },
+        "astrahan":{
+            "nick": "russia/astrahanskaya_obl/astrahan",
+            "name_eng": "astrahan",
+            "name_rus":  "Астрахань"
+        },
+        "ufa":{
+            "nick": "russia/bashkortostan/ufa",
+            "name_eng": "ufa",
+            "name_rus":  "Уфа"
+        },
+        "belgorod":{
+            "nick": "russia/belgorodskaya_obl/belgorod",
+            "name_eng": "belgorod",
+            "name_rus":  "Белгород"
+        },
+        "brjansk":{
+            "nick": "russia/bryanskaya_obl/brjansk",
+            "name_eng": "brjansk",
+            "name_rus":  "Брянск"
+        },
+        "ulan-ude":{
+            "nick": "russia/buryatiya/ulan-ude",
+            "name_eng": "ulan-ude",
+            "name_rus":  "Улан-Удэ"
+        },
+        "groznyj":{
+            "nick": "russia/checheno-ingushetiya/groznyj",
+            "name_eng": "groznyj",
+            "name_rus":  "Грозный"
+        },
+        "cheljabinsk":{
+            "nick": "russia/chelyabinskaya_obl/cheljabinsk",
+            "name_eng": "cheljabinsk",
+            "name_rus":  "Челябинск"
+        },
+        "chita":{
+            "nick": "russia/chitinskaya_obl/chita",
+            "name_eng": "chita",
+            "name_rus":  "Чита"
+        },
+        "cheboksary":{
+            "nick": "russia/chuvashiya/cheboksary",
+            "name_eng": "cheboksary",
+            "name_rus":  "Чебоксары"
+        },
+        "makhachkala":{
+            "nick": "russia/dagestan/makhachkala",
+            "name_eng": "makhachkala",
+            "name_rus":  "Махачкала"
+        },
+        "birobidzhan":{
+            "nick": "russia/evreyskaya_obl/birobidzhan",
+            "name_eng": "birobidzhan",
+            "name_rus":  "Биробиджан"
+        },
+        "khabarovsk":{
+            "nick": "russia/habarovskiy_kray/khabarovsk",
+            "name_eng": "khabarovsk",
+            "name_rus":  "Хабаровск"
+        },
+        "irkutsk":{
+            "nick": "russia/irkutskaya_obl/irkutsk",
+            "name_eng": "irkutsk",
+            "name_rus":  "Иркутск"
+        },
+        "ivanovo":{
+            "nick": "russia/ivanovskaya_obl/ivanovo",
+            "name_eng": "ivanovo",
+            "name_rus":  "Иваново"
+        },
+        "nalchik":{
+            "nick": "russia/kabardino-balkariya/nalchik",
+            "name_eng": "nalchik",
+            "name_rus":  "Нальчик"
+        },
+        "kaliningrad":{
+            "nick": "russia/kaliningradskaya_obl/kaliningrad",
+            "name_eng": "kaliningrad",
+            "name_rus":  "Калининград"
+        },
+        "elista":{
+            "nick": "russia/kalmyikiya/elista",
+            "name_eng": "elista",
+            "name_rus":  "Элиста"
+        },
+        "kaluga":{
+            "nick": "russia/kalujskaya_obl/kaluga",
+            "name_eng": "kaluga",
+            "name_rus":  "Калуга"
+        },
+        "kirov":{
+            "nick": "russia/kalujskaya_obl/kirov",
+            "name_eng": "kirov",
+            "name_rus":  "Киров"
+        },
+        "petropavlovsk-k":{
+            "nick": "russia/kamchatskaya_obl/petropavlovsk-k",
+            "name_eng": "petropavlovsk-k",
+            "name_rus":  "Петропавловск-Камчатский"
+        },
+        "petrozavodsk":{
+            "nick": "russia/kareliya/petrozavodsk",
+            "name_eng": "petrozavodsk",
+            "name_rus":  "Петрозаводск"
+        },
+        "kemerovo":{
+            "nick": "russia/kemerovskaya_obl/kemerovo",
+            "name_eng": "kemerovo",
+            "name_rus":  "Кемерово"
+        },
+        "syktyvkar":{
+            "nick": "russia/komi/syktyvkar",
+            "name_eng": "syktyvkar",
+            "name_rus":  "Сыктывкар"
+        },
+        "kostroma":{
+            "nick": "russia/kostromskaya_obl/kostroma",
+            "name_eng": "kostroma",
+            "name_rus":  "Кострома"
+        },
+        "krasnodar":{
+            "nick": "russia/krasnodarskiy_kray/krasnodar",
+            "name_eng": "krasnodar",
+            "name_rus":  "Краснодар"
+        },
+        "majkop":{
+            "nick": "russia/krasnodarskiy_kray/majkop",
+            "name_eng": "majkop",
+            "name_rus":  "Майкоп"
+        },
+        "abakan":{
+            "nick": "russia/krasnoyarskiy_kray/abakan",
+            "name_eng": "abakan",
+            "name_rus":  "Абакан"
+        },
+        "krasnoyarsk":{
+            "nick": "russia/krasnoyarskiy_kray/krasnoyarsk",
+            "name_eng": "krasnoyarsk",
+            "name_rus":  "Красноярск"
+        },
+        "kurgan":{
+            "nick": "russia/kurganskaya_obl/kurgan",
+            "name_eng": "kurgan",
+            "name_rus":  "Курган"
+        },
+        "kursk":{
+            "nick": "russia/kurskaya_obl/kursk",
+            "name_eng": "kursk",
+            "name_rus":  "Курск"
+        },
+        "lipetsk":{
+            "nick": "russia/lipetskaya_obl/lipetsk",
+            "name_eng": "lipetsk",
+            "name_rus":  "Липецк"
+        },
+        "anadyr":{
+            "nick": "russia/magadanskaya_obl/anadyr",
+            "name_eng": "anadyr",
+            "name_rus":  "Анадырь"
+        },
+        "magadan":{
+            "nick": "russia/magadanskaya_obl/magadan",
+            "name_eng": "magadan",
+            "name_rus":  "Магадан"
+        },
+        "yoshkar-ola":{
+            "nick": "russia/mariy_el/yoshkar-ola",
+            "name_eng": "yoshkar-ola",
+            "name_rus":  "Йошкар-Ола"
+        },
+        "saransk":{
+            "nick": "russia/mordoviya/saransk",
+            "name_eng": "saransk",
+            "name_rus":  "Саранск"
+        },
+        "murmansk":{
+            "nick": "russia/murmanskaya_obl/murmansk",
+            "name_eng": "murmansk",
+            "name_rus":  "Мурманск"
+        },
+        "nizhni_novgorod":{
+            "nick": "russia/nijegorodskaya/nizhni_novgorod",
+            "name_eng": "nizhni_novgorod",
+            "name_rus":  "Нижний Новгород"
+        },
+        "velikiy_novgorod":{
+            "nick": "russia/novgorodskaya_obl/velikiy_novgorod",
+            "name_eng": "velikiy_novgorod",
+            "name_rus":  "Великий Новгород"
+        },
+        "novosibirsk":{
+            "nick": "russia/novosibirskaya_obl/novosibirsk",
+            "name_eng": "novosibirsk",
+            "name_rus":  "Новосибирск"
+        },
+        "omsk":{
+            "nick": "russia/omskaya_obl/omsk",
+            "name_eng": "omsk",
+            "name_rus":  "Омск"
+        },
+        "orenburg":{
+            "nick": "russia/orenburgskaya_obl/orenburg",
+            "name_eng": "orenburg",
+            "name_rus":  "Оренбург"
+        },
+        "orel":{
+            "nick": "russia/orlovskaya_obl/orel",
+            "name_eng": "orel",
+            "name_rus":  "Орел"
+        },
+        "penza":{
+            "nick": "russia/penzenskaya_obl/penza",
+            "name_eng": "penza",
+            "name_rus":  "Пенза"
+        },
+        "perm":{
+            "nick": "russia/permskaya_obl/perm",
+            "name_eng": "perm",
+            "name_rus":  "Пермь"
+        },
+        "vladivostok":{
+            "nick": "russia/primorskiy_kray/vladivostok",
+            "name_eng": "vladivostok",
+            "name_rus":  "Владивосток"
+        },
+        "pskov":{
+            "nick": "russia/pskovskaya_obl/pskov",
+            "name_eng": "pskov",
+            "name_rus":  "Псков"
+        },
+        "rostov-na-donu":{
+            "nick": "russia/rostovskaya_obl/rostov-na-donu",
+            "name_eng": "rostov-na-donu",
+            "name_rus":  "Ростов-на-Дону"
+        },
+        "ryazan":{
+            "nick": "russia/ryazanskaya_obl/ryazan",
+            "name_eng": "ryazan",
+            "name_rus":  "Рязань"
+        },
+        "yakutsk":{
+            "nick": "russia/saha/yakutsk",
+            "name_eng": "yakutsk",
+            "name_rus":  "Якутск"
+        },
+        "yuzhno-sahalinsk":{
+            "nick": "russia/sahalin/yuzhno-sahalinsk",
+            "name_eng": "yuzhno-sahalinsk",
+            "name_rus":  "Южно-Сахалинск"
+        },
+        "samara":{
+            "nick": "russia/samarskaya_obl/samara",
+            "name_eng": "samara",
+            "name_rus":  "Самара"
+        },
+        "stpetersburg":{
+            "nick": "russia/sankt-peterburg_i_oblast/stpetersburg",
+            "name_eng": "stpetersburg",
+            "name_rus":  "Санкт-Петербург"
+        },
+        "saratov":{
+            "nick": "russia/saratovskaya_obl/saratov",
+            "name_eng": "saratov",
+            "name_rus":  "Саратов"
+        },
+        "vladikavkaz":{
+            "nick": "russia/severnaya_osetiya/vladikavkaz",
+            "name_eng": "vladikavkaz",
+            "name_rus":  "Владикавказ"
+        },
+        "smolensk":{
+            "nick": "russia/smolenskaya_obl/smolensk",
+            "name_eng": "smolensk",
+            "name_rus":  "Смоленск"
+        },
+        "stavropol":{
+            "nick": "russia/stavropolskiy_kray/stavropol",
+            "name_eng": "stavropol",
+            "name_rus":  "Ставрополь"
+        },
+        "ekaterinburg":{
+            "nick": "russia/sverdlovskaya_obl/ekaterinburg",
+            "name_eng": "ekaterinburg",
+            "name_rus":  "Екатеринбург"
+        },
+        "tambov":{
+            "nick": "russia/tambovskaya_obl/tambov",
+            "name_eng": "tambov",
+            "name_rus":  "Тамбов"
+        },
+        "kazan":{
+            "nick": "russia/tatarstan/kazan",
+            "name_eng": "kazan",
+            "name_rus":  "Казань"
+        },
+        "tomsk":{
+            "nick": "russia/tomskaya_obl/tomsk",
+            "name_eng": "tomsk",
+            "name_rus":  "Томск"
+        },
+        "tula":{
+            "nick": "russia/tulskaya_obl/tula",
+            "name_eng": "tula",
+            "name_rus":  "Тула"
+        },
+        "kyzyl":{
+            "nick": "russia/tuva/kyzyl",
+            "name_eng": "kyzyl",
+            "name_rus":  "Кызыл"
+        },
+        "tver":{
+            "nick": "russia/tverskaya_obl/tver",
+            "name_eng": "tver",
+            "name_rus":  "Тверь"
+        },
+        "hanty-mansijsk":{
+            "nick": "russia/tyumenskaya_obl/hanty-mansijsk",
+            "name_eng": "hanty-mansijsk",
+            "name_rus":  "Ханты-Мансийск"
+        },
+        "salehard":{
+            "nick": "russia/tyumenskaya_obl/salehard",
+            "name_eng": "salehard",
+            "name_rus":  "Салехард"
+        },
+        "tjumen":{
+            "nick": "russia/tyumenskaya_obl/tjumen",
+            "name_eng": "tjumen",
+            "name_rus":  "Тюмень"
+        },
+        "izhevsk":{
+            "nick": "russia/udmurtiya/izhevsk",
+            "name_eng": "izhevsk",
+            "name_rus":  "Ижевск"
+        },
+        "ulyanovsk":{
+            "nick": "russia/ulyanovskaya_obl/ulyanovsk",
+            "name_eng": "ulyanovsk",
+            "name_rus":  "Ульяновск"
+        },
+        "vladimir":{
+            "nick": "russia/vladimirskaya_obl/vladimir",
+            "name_eng": "vladimir",
+            "name_rus":  "Владимир"
+        },
+        "volgograd":{
+            "nick": "russia/volgogradskaya_obl/volgograd",
+            "name_eng": "volgograd",
+            "name_rus":  "Волгоград"
+        },
+        "vologda":{
+            "nick": "russia/vologodskaya_obl/vologda",
+            "name_eng": "vologda",
+            "name_rus":  "Вологда"
+        },
+        "voronez":{
+            "nick": "russia/voronejskaya_obl/voronez",
+            "name_eng": "voronez",
+            "name_rus":  "Воронеж"
+        },
+        "yaroslavl":{
+            "nick": "russia/yaroslavskaya_obl/yaroslavl",
+            "name_eng": "yaroslavl",
+            "name_rus":  "Ярославль"
+        }
+});
